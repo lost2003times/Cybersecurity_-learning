@@ -1,0 +1,19 @@
+# Learning Log
+
+Use this file as a chronological journal of your learning.
+
+---
+## 2025-08-13
+**What I studied:**  
+- 
+
+**Commands/Tools practiced:**  
+```
+# put exact commands here
+```
+
+**What worked / didn't:**  
+- 
+
+**Next step for tomorrow:**  
+- 
