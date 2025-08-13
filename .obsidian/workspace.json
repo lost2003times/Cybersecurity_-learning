@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
+                "file": "Courses/Ethical hacking/System Exploitation/Server side attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning_Log"
+              "title": "Server side attacks"
             }
           }
         ]
@@ -150,16 +150,29 @@
               "icon": "lucide-list",
               "title": "Outline of Learning_Log"
             }
+          },
+          {
+            "id": "077d25cffb3272f8",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,5 +182,13 @@
     }
   },
   "active": "be5d2bb3f0b40d1d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
+    "Courses/Ethical hacking/System Exploitation/Server side attacks.md",
+    "Courses/Ethical hacking/System Exploitation",
+    "Courses/Ethical hacking",
+    "Untitled",
+    "Courses",
+    "Courses"
+  ]
 }
