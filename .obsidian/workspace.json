@@ -11,12 +11,14 @@
             "id": "be5d2bb3f0b40d1d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250814173122.png"
+                "file": "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250814173122"
+              "icon": "lucide-file",
+              "title": "Using Metasploit"
             }
           }
         ]
@@ -181,9 +183,12 @@
   },
   "active": "be5d2bb3f0b40d1d",
   "lastOpenFiles": [
-    "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
+    "Screenshot (46).png",
+    "Screenshot 2025-08-14 173208.png",
+    "Screenshot 2025-08-14 173107.png",
     "Pasted image 20250814173223.png",
     "Pasted image 20250814173122.png",
+    "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
     "Courses/Ethical hacking/System Exploitation/Server side attacks.md",
     "Courses/Ethical hacking/System Exploitation",
