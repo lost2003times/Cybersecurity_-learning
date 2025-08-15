@@ -1,4 +1,6 @@
 {
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "useMarkdownLinks": true
 }
