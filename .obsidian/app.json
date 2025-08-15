@@ -1,6 +1,6 @@
 {
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "Assests",
   "newFileLocation": "root",
   "useMarkdownLinks": true
 }

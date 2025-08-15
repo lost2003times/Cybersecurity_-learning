@@ -15,7 +15,7 @@
               "state": {
                 "file": "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Using Metasploit"
@@ -183,6 +183,8 @@
   },
   "active": "be5d2bb3f0b40d1d",
   "lastOpenFiles": [
+    "Assests/Screenshot (46).png",
+    "Assests",
     "Screenshot 2025-08-14 173208 1.png",
     "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
     "Courses/Ethical hacking/System Exploitation/Screenshot 2025-08-14 173208.png",
