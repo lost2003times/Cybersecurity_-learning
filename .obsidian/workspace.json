@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
+                "file": "Courses/Ethical hacking/Every install/Installed Programs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using Metasploit"
+              "title": "Installed Programs"
             }
           }
         ]
@@ -181,12 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c5340ef8462f6dd",
+  "active": "6128e5ae24dc02a3",
   "lastOpenFiles": [
+    "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
+    "Courses/Ethical hacking/Every install/Installed Programs.md",
+    "Courses/Ethical hacking/Every install",
     "Courses/Ethical hacking/Client Side Attacks",
     "Screenshot 2025-08-14 173107.png",
     "Screenshot 2025-08-14 173208.png",
-    "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
     "assests/Screenshot (46).png",
     "assests/Screenshot (46) 1.png",
     "assests",
