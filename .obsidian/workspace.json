@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering.md",
+                "file": "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Social Engineering"
+              "title": "Introduction to Social Engineering and OSINT"
             }
           }
         ]
@@ -185,7 +185,7 @@
   "active": "6128e5ae24dc02a3",
   "lastOpenFiles": [
     "Courses/Ethical hacking/Client Side Attacks/Preventing Client Side Attacks.md",
-    "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering.md",
+    "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md",
     "Courses/Ethical hacking/Social Engineering",
     "Courses/Ethical hacking/Client Side Attacks/Client Side Attack using Metasploit and Shellter.md",
     "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
