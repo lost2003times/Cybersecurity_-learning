@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Note_Template.md",
+                "file": "Courses/Ethical hacking/Client Side Attacks/Preventing Client Side Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note_Template"
+              "title": "Preventing Client Side Attacks"
             }
           }
         ]
@@ -183,10 +183,13 @@
   },
   "active": "6128e5ae24dc02a3",
   "lastOpenFiles": [
-    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
+    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
+    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Topics_to_Revisit.md",
+    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Note_Template.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Daily_Log_Template.md",
-    "Courses/Ethical hacking/Client Side Attacks/Untitled.md",
+    "Courses/Ethical hacking/Client Side Attacks/Preventing Client Side Attacks.md",
+    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Tool_Note_Template.md",
     "Courses/Ethical hacking/Client Side Attacks/Client Side Attack using Metasploit and Shellter.md",
     "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
     "Courses/Ethical hacking/System Exploitation/Server side attacks.md",
