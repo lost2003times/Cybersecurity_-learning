@@ -14,8 +14,6 @@
 - ipchicken.com (for finding your own public IP)
 - wayback.archive.org
 - guerrillamail.com (for temporary email)
-- tinfoleak.com (does not work anymore its the relic of the past)
+- tinfoleak.com (does not work anymore its the relic of the past) **Use Maltego** 
+- temp-mail.org
 
-### Github projects which are good but are yet to explore
-
-- [ ] Twitter OSINT https://github.com/twintproject/twint
