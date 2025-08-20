@@ -13,7 +13,9 @@
 - cve.org (Common Vulnerabilities and Exposures)
 - ipchicken.com (for finding your own public IP)
 - wayback.archive.org
+- guerrillamail.com (for temporary email)
+- tinfoleak.com
 
 ### Github projects which are good but are yet to explore
 
-- [ ] twint
+- [ ] Twitter OSINT https://github.com/twintproject/twint
