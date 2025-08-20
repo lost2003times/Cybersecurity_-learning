@@ -12,3 +12,5 @@
 - rapid7.com
 - cve.org (Common Vulnerabilities and Exposures)
 - ipchicken.com (for finding your own public IP)
+- wayback.archive.org
+- 
