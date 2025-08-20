@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Introduction to Social Engineering and OSINT"
             }
+          },
+          {
+            "id": "dfa491a451e10554",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
@@ -182,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6128e5ae24dc02a3",
+  "active": "dfa491a451e10554",
   "lastOpenFiles": [
     "Courses/Ethical hacking/Client Side Attacks/Preventing Client Side Attacks.md",
     "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md",
