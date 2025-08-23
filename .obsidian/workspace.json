@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Ethical hacking/Cracking Passwords/Understanding Encryption and Hashing Concepts.md",
+                "file": "Courses/Ethical hacking/Important Sites and Search Engines to Know.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Encryption and Hashing Concepts"
+              "title": "Important Sites and Search Engines to Know"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -184,24 +184,25 @@
   },
   "active": "6c398ed958a15f6d",
   "lastOpenFiles": [
-    "Understanding Encryption and Hashing Concepts.md",
+    "Courses/Ethical hacking/Every Important Install.md",
+    "Courses/Ethical hacking/Cracking Passwords/Cracking hashes.md",
     "Courses/Ethical hacking/Cracking Passwords/Understanding Encryption and Hashing Concepts.md",
+    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
+    "Courses/Ethical hacking/Important Sites and Search Engines to Know.md",
+    "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md",
+    "Understanding Encryption and Hashing Concepts.md",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled 2.base",
-    "Courses/Ethical hacking/Important Sites and Search Engines to Know.md",
     "Courses/Ethical hacking/Cracking Passwords/Understanding Encryption and Hashing Concepts",
     "Courses/Ethical hacking/Cracking Passwords",
-    "Courses/Ethical hacking/Every Important Install.md",
     "Courses/Ethical hacking/Every install/Installed Programs.md",
-    "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md",
     "Courses/Ethical hacking/Client Side Attacks/Preventing Client Side Attacks.md",
     "Courses/Ethical hacking/Social Engineering",
     "Courses/Ethical hacking/Client Side Attacks/Client Side Attack using Metasploit and Shellter.md",
     "Courses/Ethical hacking/System Exploitation/Using Metasploit.md",
     "Courses/Ethical hacking/System Exploitation/Server side attacks.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
-    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Topics_to_Revisit.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Note_Template.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Daily_Log_Template.md",

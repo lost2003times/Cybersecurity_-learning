@@ -4,6 +4,9 @@
 ### Search Engines :
 - Shodan (all the devices connected to the internet)
 - Censys (internet connected hosts)
+### Github helpful links
+- https://github.com/br0wnboi/tutedude/blob/main/hashes/README.md
+
 ### Websites :
 - viewdns.info
 - haveibeenpwned.com
@@ -14,6 +17,8 @@
 - ipchicken.com (for finding your own public IP)
 - wayback.archive.org
 - guerrillamail.com (for temporary email)
-- tinfoleak.com (does not work anymore its the relic of the past) **Use Maltego** 
+- tinfoleak.com (does not work anymore its the relic of the past)  **Use Maltego** 
 - temp-mail.org
+- crackstation.net
+- 
 
