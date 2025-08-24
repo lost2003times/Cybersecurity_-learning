@@ -14,3 +14,13 @@ A Web app is apiece of software that can be accessed by the browser. In other wo
 - SQL Injection
 - XSS(Cross Site Scripting)
 - Automated Scanning
+
+### Tools
+- nmap
+- Whatruns
+- Burpsuite
+- ZAP
+- DevTools
+- CyberChef
+- sqlmap
+- nikto
