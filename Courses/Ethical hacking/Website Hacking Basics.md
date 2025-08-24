@@ -9,7 +9,7 @@ A Web app is apiece of software that can be accessed by the browser. In other wo
 
 ### How do we Hack Websites 
 - File Upload Vulnerabilities
-- Code Execution Vulnerabilities
+- Code Execution Vulnerabilities 
 - Local file Inclusion
 - SQL Injection
 - XSS(Cross Site Scripting)
