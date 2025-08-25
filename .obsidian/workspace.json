@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Ethical hacking/Webapp Hacking/File Upload Vulnerabilities.md",
+                "file": "Courses/Ethical hacking/Webapp Hacking/Code Execution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Upload Vulnerabilities"
+              "title": "Code Execution"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "6c398ed958a15f6d",
   "lastOpenFiles": [
-    "Courses/Ethical hacking/Webapp Hacking/Code Execution.md",
     "Courses/Ethical hacking/Webapp Hacking/File Upload Vulnerabilities.md",
+    "Courses/Ethical hacking/Webapp Hacking/Code Execution.md",
     "Courses/Ethical hacking/Webapp Hacking/Code Execution",
     "Courses/Ethical hacking/Important Sites and Search Engines to Know.md",
     "Courses/Ethical hacking/Webapp Hacking",
