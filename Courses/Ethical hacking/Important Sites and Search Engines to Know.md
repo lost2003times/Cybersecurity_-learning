@@ -20,5 +20,8 @@
 - tinfoleak.com (does not work anymore its the relic of the past)  **Use Maltego** 
 - temp-mail.org
 - crackstation.net
-- 
+- builtwith.com (for web apps)
+- whatruns.com (extension only)
+- wappalyzer.com (web app + an extension)
+- pranx.com
 
