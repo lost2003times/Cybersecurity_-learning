@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
+                "file": "Courses/Ethical hacking/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Learning_Log"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
+                "file": "Courses/Ethical hacking/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Learning_Log"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
+                "file": "Courses/Ethical hacking/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learning_Log"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,12 +199,14 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
+    "CTFS/Root Me _ TryHackMe.md",
+    "Untitled.base",
+    "Courses/Ethical hacking/Untitled.md",
+    "CTFS",
     "assests/Screenshot 2025-08-27 165035.png",
     "Screenshot (46).png",
-    "Courses/Ethical hacking/Untitled.md",
     "Screenshot 2025-08-14 173208.png",
     "Screenshot 2025-08-14 173107.png",
-    "Untitled.base",
     "Untitled 1.base",
     "Courses/Ethical hacking/Webapp Hacking/File Upload Vulnerabilities.md",
     "Courses/Ethical hacking/Webapp Hacking/Code Execution.md",
@@ -233,13 +235,11 @@
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Daily_Log_Template.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Tool_Note_Template.md",
     "Courses/Ethical hacking/Every install",
-    "Courses/Ethical hacking/Client Side Attacks",
     "assests/Screenshot (46).png",
     "assests/Screenshot (46) 1.png",
     "Screenshot 2025-08-14 173208 1.png",
     "Courses/Ethical hacking/System Exploitation/Screenshot 2025-08-14 173208.png",
     "Courses/Ethical hacking/System Exploitation/Screenshot 2025-08-14 173107.png",
-    "Courses/Ethical hacking/System Exploitation/Screenshot (46).png",
-    "Pasted image 20250814173223.png"
+    "Courses/Ethical hacking/System Exploitation/Screenshot (46).png"
   ]
 }
