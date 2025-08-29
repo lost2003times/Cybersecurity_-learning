@@ -25,12 +25,14 @@
             "id": "6382799a21a6c38d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Courses/Ethical hacking/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -197,6 +199,13 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
+    "assests/Screenshot 2025-08-27 165035.png",
+    "Screenshot (46).png",
+    "Courses/Ethical hacking/Untitled.md",
+    "Screenshot 2025-08-14 173208.png",
+    "Screenshot 2025-08-14 173107.png",
+    "Untitled.base",
+    "Untitled 1.base",
     "Courses/Ethical hacking/Webapp Hacking/File Upload Vulnerabilities.md",
     "Courses/Ethical hacking/Webapp Hacking/Code Execution.md",
     "Courses/Ethical hacking/Website Hacking Basics.md",
@@ -209,8 +218,6 @@
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
     "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md",
     "Understanding Encryption and Hashing Concepts.md",
-    "Untitled 1.base",
-    "Untitled.base",
     "Untitled 2.base",
     "Courses/Ethical hacking/Cracking Passwords/Understanding Encryption and Hashing Concepts",
     "Courses/Ethical hacking/Cracking Passwords",
@@ -227,15 +234,12 @@
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Tool_Note_Template.md",
     "Courses/Ethical hacking/Every install",
     "Courses/Ethical hacking/Client Side Attacks",
-    "Screenshot 2025-08-14 173107.png",
-    "Screenshot 2025-08-14 173208.png",
     "assests/Screenshot (46).png",
     "assests/Screenshot (46) 1.png",
     "Screenshot 2025-08-14 173208 1.png",
     "Courses/Ethical hacking/System Exploitation/Screenshot 2025-08-14 173208.png",
     "Courses/Ethical hacking/System Exploitation/Screenshot 2025-08-14 173107.png",
     "Courses/Ethical hacking/System Exploitation/Screenshot (46).png",
-    "Screenshot (46).png",
     "Pasted image 20250814173223.png"
   ]
 }
