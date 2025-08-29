@@ -1,5 +1,6 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "obsidian-link-converter"
 ]

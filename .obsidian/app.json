@@ -1,6 +1,6 @@
 {
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "assests",
+  "attachmentFolderPath": "./assests",
   "newFileLocation": "root",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true
