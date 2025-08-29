@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Code Execution"
             }
+          },
+          {
+            "id": "6382799a21a6c38d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c398ed958a15f6d",
+  "active": "6382799a21a6c38d",
   "lastOpenFiles": [
     "Courses/Ethical hacking/Webapp Hacking/File Upload Vulnerabilities.md",
     "Courses/Ethical hacking/Webapp Hacking/Code Execution.md",
