@@ -1,23 +1,31 @@
 
 ---
-	Once you have set up your VPN, start up the machine.
+# CTF Write-up: {Root Me}
+**Event:** Root me   
+**Description:** A ctf for beginners, can you root me?
+**Difficulty:** {Easy/~~Medium~~/~~Hard~~}  
+**Date:** 29th August, 2025
 
-### Task 1: Deploy the Machine
+## TL;DR
+- GoBuster almost cleared the path and gave all the directories after that exploiting and getting access was a part that took some time.
+- Used a Reverse shell php and it had a file upload vulnerability.
 
-1.  Deploy the machine : Start the machine.
+## Recon
+- Started with the Zenmap intense scan of the given IP to answer some questions of the ctf.
+- Used Go buster to find hidden directories 
 
-### Task 2: Reconnaissance
+## Exploit Path
+1. 
+2. 
+3. 
 
-1. Scan the machine, how many ports are open? 
-	2
-	Open the Zenmap and do an Intense Scan with the given IP.
-2.  What version of Apache is running?
-	2.4.29
-	 Just check its version from the output of the zenmap scan.
-3.  What service is running on port 22?
-	 ssh
-	 Check the zenmap output of scan.
-4.  Find directories on the web server using the GoBuster tool.
-	- Use the code for using GoBuster : 
-	- gobuster dir -u <ip> -w /usr/share/dirbuster/wordlists/directory-list-lowercase-2.3-medium.txt
-5. 
+## Key Commands / Payloads
+```
+# commands or payloads used
+```
+
+## Flag
+- 
+
+## Lessons Learned
+- 
