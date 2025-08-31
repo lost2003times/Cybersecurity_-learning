@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/The OSI Model.md",
+                "file": "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/Subnetting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The OSI Model"
+              "title": "Subnetting"
             }
           }
         ]
@@ -185,6 +185,13 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
+    "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/assests/Pasted image 20250831233434.png",
+    "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/assests/-20250831SubnettingCheatSheet.png",
+    "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/assests/Pasted image 20250831233029.png",
+    "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/assests/{{CURRENT_YEAR}}{{CURRENT_MONTH}}{{CURRENT_DATE}}-{{CURRENT_HOUR}}{{CURRENT_MINUTE}}{{CURRENT_SECOND}}.png",
+    "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/assests",
+    "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/The OSI Model.md",
+    "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/Subnetting.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/CTF_Writeup_Template.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Daily_Log_Template.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Note_Template.md",
@@ -195,7 +202,6 @@
     "Courses/Ethical hacking/Untitled.md",
     "Courses/Ethical hacking/Client Side Attacks/Client Side Attack using Metasploit and Shellter.md",
     "Courses/Ethical hacking/Webapp Hacking/Code Execution.md",
-    "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/The OSI Model.md",
     "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/Common Ports and Protocols.md",
     "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/TCP, UDP and Three-way Handshake.md",
     "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/MAC Addresses.md",
@@ -223,13 +229,7 @@
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
     "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md",
     "Understanding Encryption and Hashing Concepts.md",
-    "Untitled 2.base",
-    "Courses/Ethical hacking/Every install/Installed Programs.md",
-    "Courses/Ethical hacking/Client Side Attacks/Preventing Client Side Attacks.md",
     "assests/Screenshot (46).png",
-    "assests/Screenshot (46) 1.png",
-    "Screenshot 2025-08-14 173208 1.png",
-    "Courses/Ethical hacking/System Exploitation/Screenshot 2025-08-14 173208.png",
-    "Courses/Ethical hacking/System Exploitation/Screenshot 2025-08-14 173107.png"
+    "assests/Screenshot (46) 1.png"
   ]
 }
