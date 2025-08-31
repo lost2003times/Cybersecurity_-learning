@@ -24,4 +24,5 @@
 - whatruns.com (extension only)
 - wappalyzer.com (web app + an extension)
 - pranx.com
+- gtfobins.github.io 
 
