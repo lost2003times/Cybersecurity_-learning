@@ -1,5 +1,17 @@
 
 ---
+The pneumonic to remember the layers : Please Do Not Throw Sausage Pizza Away.
+1. **Physical** - data cables, cat6
+2. **Data** - Switching, MAC addresses
+3. **Network** - IP addresses, routing
+4. **Transport** - TCP/UDP
+5. **Session** - session management
+6. **Presentation** - WMV, JPEG, MOV
+7. **Application** - HTTP, SMTP
+
+When we receive data we go from top to bottom and when we transmit data we go from bottom to top of this physical layer.
+Example: If someone asks you to troubleshoot there Internet, so you start with the Physical layer.
+
 The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes the functions of a communication system into seven distinct layers. Each layer has specific responsibilities and interacts with the layers above and below it. The OSI model provides a structured approach to understanding and designing network protocols and communication systems. Here's a brief overview of each layer:
 
 1. Physical Layer: The physical layer is responsible for the transmission and reception of raw unstructured data bits over a physical medium. It defines the electrical, mechanical, and functional characteristics of the physical interface between devices.
