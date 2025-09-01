@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/TCM Practical Cyber Security/Domain 2 - Ethical Hacker Methodology/5 Stages of Hacking.md",
+                "file": "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering/Passive Reconnaissance Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Stages of Hacking"
+              "title": "Passive Reconnaissance Overview"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dee54e59b10bac4e",
@@ -184,10 +185,13 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
+    "Courses/Important Sites and Search Engines to Know.md",
+    "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering/Passive Reconnaissance Overview.md",
+    "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering",
+    "Courses/TCM Practical Cyber Security/Domain 2 - Ethical Hacker Methodology/5 Stages of Hacking.md",
     "Courses/TCM Practical Cyber Security/Domain 2 - Ethical Hacker Methodology/assests/Screenshot (47).png",
     "Courses/TCM Practical Cyber Security/Domain 2 - Ethical Hacker Methodology/assests",
     "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/Common Ports and Protocols.md",
-    "Courses/TCM Practical Cyber Security/Domain 2 - Ethical Hacker Methodology/5 Stages of Hacking.md",
     "Courses/TCM Practical Cyber Security/Domain 2 - Ethical Hacker Methodology",
     "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/TCP, UDP and Three-way Handshake.md",
     "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/The OSI Model.md",
@@ -203,7 +207,6 @@
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Tool_Note_Template.md",
     "CTFS/Root Me _ TryHackMe.md",
     "CTFS/Setting up VPN for CTFS with TryHackMe.md",
-    "Courses/Important Sites and Search Engines to Know.md",
     "Courses/Ethical hacking/Untitled.md",
     "Courses/Ethical hacking/Client Side Attacks/Client Side Attack using Metasploit and Shellter.md",
     "Courses/Ethical hacking/Webapp Hacking/Code Execution.md",
@@ -221,14 +224,12 @@
     "Screenshot (46).png",
     "Screenshot 2025-08-14 173208.png",
     "Screenshot 2025-08-14 173107.png",
-    "Untitled 1.base",
     "Courses/Ethical hacking/Webapp Hacking/File Upload Vulnerabilities.md",
     "Courses/Ethical hacking/Website Hacking Basics.md",
     "Courses/Ethical hacking/Every Important Install.md",
     "Courses/Ethical hacking/Cracking Passwords/Cracking hashes.md",
     "Courses/Ethical hacking/Cracking Passwords/Understanding Encryption and Hashing Concepts.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
-    "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md",
-    "assests/Screenshot (46).png"
+    "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md"
   ]
 }
