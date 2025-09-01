@@ -14,3 +14,7 @@
 - Google login
 
 **One of the most under rated way to check the email address is to try google login and forget password. Using this we will also get the email which is synced with the one we are verifying.**
+
+## Breached Credentials 
+
+https://app.dehashed.com/search (paid to see the information)
