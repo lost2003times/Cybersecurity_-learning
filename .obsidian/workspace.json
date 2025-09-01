@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering/Passive Reconnaissance Overview.md",
+                "file": "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering/Discovering Email Addresses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Passive Reconnaissance Overview"
+              "title": "Discovering Email Addresses"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
-    "Courses/Important Sites and Search Engines to Know.md",
     "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering/Passive Reconnaissance Overview.md",
+    "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering/Discovering Email Addresses.md",
+    "Courses/Important Sites and Search Engines to Know.md",
     "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering",
     "Courses/TCM Practical Cyber Security/Domain 2 - Ethical Hacker Methodology/5 Stages of Hacking.md",
     "Courses/TCM Practical Cyber Security/Domain 2 - Ethical Hacker Methodology/assests/Screenshot (47).png",
@@ -229,7 +230,6 @@
     "Courses/Ethical hacking/Every Important Install.md",
     "Courses/Ethical hacking/Cracking Passwords/Cracking hashes.md",
     "Courses/Ethical hacking/Cracking Passwords/Understanding Encryption and Hashing Concepts.md",
-    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
-    "Courses/Ethical hacking/Social Engineering/Introduction to Social Engineering and OSINT.md"
+    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md"
   ]
 }
