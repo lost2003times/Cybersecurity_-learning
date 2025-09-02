@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dee54e59b10bac4e",
@@ -183,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6382799a21a6c38d",
+  "active": "2c5340ef8462f6dd",
   "lastOpenFiles": [
+    "Courses/Python for hackers",
     "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering/Hunting Subdomains.md",
     "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering/Identifying Website Technologies.md",
     "Courses/TCM Practical Cyber Security/Domain 3 - Information Gathering/Discovering Email Addresses.md",
@@ -229,7 +229,6 @@
     "assests/Screenshot 2025-08-27 165035.png",
     "Screenshot (46).png",
     "Screenshot 2025-08-14 173208.png",
-    "Screenshot 2025-08-14 173107.png",
-    "Courses/Ethical hacking/Webapp Hacking/File Upload Vulnerabilities.md"
+    "Screenshot 2025-08-14 173107.png"
   ]
 }
