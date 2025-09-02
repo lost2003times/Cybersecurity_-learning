@@ -9,3 +9,6 @@ sublist3r -d tesla.com
 ```
 
 - https://crt.sh/
+
+#### To check if the subdomains are still working then download this from github 
+https://github.com/tomnomnom/httprobe
