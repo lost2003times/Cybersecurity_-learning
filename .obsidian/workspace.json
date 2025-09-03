@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Assessments/Kiotprix/Findings/Interesting findings.md",
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interesting findings"
+              "title": "Scanning and Enumeration"
             }
           }
         ]
@@ -184,9 +184,12 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
-    "Courses/Assessments/Kiotprix/Findings/assests/Pasted image 20250903195826.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning with nmap.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
+    "Courses/Assessments/Kiotprix/Findings/Information Disclosure.md",
     "Courses/Assessments/Kiotprix/Findings/Some findings.md",
-    "Courses/Assessments/Kiotprix/Findings/Interesting findings.md",
+    "Courses/Assessments/Kiotprix/Findings/assests/Pasted image 20250903200924.png",
+    "Courses/Assessments/Kiotprix/Findings/assests/Pasted image 20250903195826.png",
     "Courses/Assessments/Kiotprix/Findings/Interesting findings",
     "Courses/Assessments/Kiotprix/Findings/assests/Pasted image 20250903195349.png",
     "Courses/Assessments/Kiotprix/Findings/assests",
@@ -196,14 +199,12 @@
     "Courses/Assessments/Kiotprix/Scans/Niketo Scan.md",
     "Courses/Assessments/Kiotprix/Scans/Nmap/Port 80 and 143.md",
     "Courses/Assessments/Kiotprix/Scans/Nmap/port 22.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
     "Courses/Assessments/Kiotprix/Scans/Nmap",
     "Courses/Assessments/Kiotprix/Scans",
     "Courses/Assessments/Kiotprix/Nmap.md",
     "Courses/Assessments/Kiotprix/Untitled.base",
     "Courses/Assessments/Kiotprix",
     "Courses/Assessments",
-    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning with nmap.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Daily_Log_Template.md",
@@ -227,8 +228,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/Pasted image 20250831233029.png",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/{{CURRENT_YEAR}}{{CURRENT_MONTH}}{{CURRENT_DATE}}-{{CURRENT_HOUR}}{{CURRENT_MINUTE}}{{CURRENT_SECOND}}.png",
     "Courses/Ethical hacking (tutedude)/assests/Screenshot 2025-08-27 162551.png",
-    "assests/Screenshot 2025-08-27 165035.png",
-    "Screenshot (46).png",
-    "Screenshot 2025-08-14 173208.png"
+    "assests/Screenshot 2025-08-27 165035.png"
   ]
 }
