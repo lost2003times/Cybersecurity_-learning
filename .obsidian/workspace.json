@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
+                "file": "Courses/Assessments/Kiotprix/Scans/Nmap/Port 139.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scanning and Enumeration"
+              "title": "Port 139"
             }
           }
         ]
@@ -182,11 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c5340ef8462f6dd",
+  "active": "6382799a21a6c38d",
   "lastOpenFiles": [
-    "Courses/Untitled",
-    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning with nmap.md",
+    "Courses/Assessments/Kiotprix/Scans/Nmap/Nmap.md",
+    "Courses/Assessments/Kiotprix/Scans/Nmap/Port 139.md",
+    "Courses/Assessments/Kiotprix/Scans/Niketo Scan.md",
+    "Courses/Assessments/Kiotprix/Scans/Nmap/Port 80 and 143.md",
+    "Courses/Assessments/Kiotprix/Scans/Nmap/port 22.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
+    "Courses/Assessments/Kiotprix/Scans/Nmap",
+    "Courses/Assessments/Kiotprix/Scans",
+    "Courses/Assessments/Kiotprix/Nmap.md",
+    "Courses/Assessments/Kiotprix/Untitled.base",
+    "Courses/Assessments/Kiotprix",
+    "Courses/Assessments",
+    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning with nmap.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Daily_Log_Template.md",
@@ -209,22 +219,12 @@
     "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering",
     "Courses/TCM Practical Ethical Hacking/Domain 2 - Ethical Hacker Methodology/5 Stages of Hacking.md",
     "Courses/TCM Practical Ethical Hacking/Domain 2 - Ethical Hacker Methodology/assests/Screenshot (47).png",
-    "Courses/TCM Practical Ethical Hacking/Domain 2 - Ethical Hacker Methodology/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/Common Ports and Protocols.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 2 - Ethical Hacker Methodology",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/TCP, UDP and Three-way Handshake.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/The OSI Model.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/Subnetting.md",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/Pasted image 20250831233434.png",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/-20250831SubnettingCheatSheet.png",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/Pasted image 20250831233029.png",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/{{CURRENT_YEAR}}{{CURRENT_MONTH}}{{CURRENT_DATE}}-{{CURRENT_HOUR}}{{CURRENT_MINUTE}}{{CURRENT_SECOND}}.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests",
-    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/CTF_Writeup_Template.md",
-    "CTFS/Root Me _ TryHackMe.md",
-    "CTFS/Setting up VPN for CTFS with TryHackMe.md",
-    "Courses/TCM Practical Cyber Security/Domain 1 - Networking Refresher/Untitled",
-    "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher",
     "Courses/Ethical hacking (tutedude)/assests/Screenshot 2025-08-27 162551.png",
     "assests/Screenshot 2025-08-27 165035.png",
     "Screenshot (46).png",
