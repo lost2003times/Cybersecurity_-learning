@@ -52,7 +52,7 @@ We didnt got much but we got this
 
 192.168.15.8:139      -   Host could not be identified: ==Unix (Samba 2.2.1a)==
  ___
- We tried if we can get access using this info with smbclient
+ We tried if we can get some info using this info with smbclient
  ```
  smbclient -L //192.168.15.8
  ```
@@ -63,5 +63,12 @@ We didnt got much but we got this
         IPC$            IPC       IPC Service (Samba Server)
         ADMIN$          IPC       IPC Service (Samba Server)
 
+```
+
+___
+Now we try the ssh
+
+```
+ssh 192.168.15.8
 ```
 
