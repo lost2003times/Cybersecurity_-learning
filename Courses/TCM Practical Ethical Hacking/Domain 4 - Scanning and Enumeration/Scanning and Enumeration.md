@@ -22,4 +22,12 @@ The complete output is there in the assessment but here is the important thing w
 ___ 
 After that we used dirbuster as we know there might be some directories and we used this settings : 
 
+![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%204%20-%20Scanning%20and%20Enumeration/assests/Pasted%20image%2020250903220636.png)
+
+We found a lot of directories but there was not much there but still there was one thing which we might end up using : 
+
+![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%204%20-%20Scanning%20and%20Enumeration/assests/Pasted%20image%2020250903221051.png)
+
+___
+
 
