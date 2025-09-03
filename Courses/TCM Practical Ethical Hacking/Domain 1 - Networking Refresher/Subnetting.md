@@ -2,11 +2,11 @@
 ---
 The subnetting cheat sheet :
 
-![](Courses/TCM%20Practical%20Cyber%20Security/Domain%201%20-%20Networking%20Refresher/assests/-20250831SubnettingCheatSheet.png)
+![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%201%20-%20Networking%20Refresher/assests/-20250831SubnettingCheatSheet.png)
 
 Subnetting Examples :
 
-![](Courses/TCM%20Practical%20Cyber%20Security/Domain%201%20-%20Networking%20Refresher/assests/Pasted%20image%2020250831233434.png)
+![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%201%20-%20Networking%20Refresher/assests/Pasted%20image%2020250831233434.png)
 
 Subnet Guide drive link : https://drive.google.com/file/d/1ETKH31-E7G-7ntEOlWGZcDZWuukmeHFe/view
 

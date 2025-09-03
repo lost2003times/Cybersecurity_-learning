@@ -2,7 +2,7 @@
 ---
 Ethical hacking, also known as penetration testing or white-hat hacking, follows a structured approach to identify and address vulnerabilities in computer systems and networks. The ethical hacking process typically involves the following five stages:
 
-![](Courses/TCM%20Practical%20Cyber%20Security/Domain%202%20-%20Ethical%20Hacker%20Methodology/assests/Screenshot%20(47).png)
+![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%202%20-%20Ethical%20Hacker%20Methodology/assests/Screenshot%20(47).png)
 
 **Reconnaissance:**
 
