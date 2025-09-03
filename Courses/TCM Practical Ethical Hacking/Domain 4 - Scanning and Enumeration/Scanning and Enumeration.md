@@ -70,5 +70,9 @@ Now we try the ssh
 
 ```
 ssh 192.168.15.8
+output: diffie-hellman-group1-sha1
+ssh 192.168.15.8 -oKexAlgorithms=+diffie-hellman-group1-sha1  
+output: Their offer: ssh-rsa,ssh-dss
 ```
 
+After that i cant follow along the video but nothing much comes out of it as we cant get the access of Admin$ and in the access of IPC$ we are access denied for even ls, So we dont go much further as its a Dead End.

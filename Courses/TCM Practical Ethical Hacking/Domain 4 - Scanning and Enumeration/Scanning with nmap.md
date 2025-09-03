@@ -1,5 +1,4 @@
-
----
+___
 ### Installing Kioptrix :
 
 It is a machine on which we are gonna learn about various tools and methodology.
