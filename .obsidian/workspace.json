@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dee54e59b10bac4e",
@@ -184,6 +185,8 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
+    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests/Pasted image 20250903214807.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning with nmap.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
     "Courses/Assessments/Kiotprix/Findings/Information Disclosure.md",
@@ -213,7 +216,6 @@
     "Courses/Python for hackers/Python 101 for hackers/Domain 1 - Introduction/Introduction to the course.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration",
     "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Identifying Website Technologies.md",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 1 - Introduction",
     "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Hunting Subdomains.md",
     "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Discovering Email Addresses.md",
     "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Passive Reconnaissance Overview.md",
