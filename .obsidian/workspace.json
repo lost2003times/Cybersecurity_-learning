@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dee54e59b10bac4e",
@@ -185,10 +184,14 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
+    "Courses/Assessments/Kiotprix/Scans/Nmap/port 22.md",
+    "Courses/Assessments/Kiotprix/Scans/Nmap/Port 139.md",
+    "Courses/Assessments/Kiotprix/Scans/Nmap/Port 80 and 143.md",
+    "Courses/Assessments/Kiotprix/Scans/Niketo Scan.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests/Pasted image 20250903214807.png",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning with nmap.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
     "Courses/Assessments/Kiotprix/Findings/Information Disclosure.md",
     "Courses/Assessments/Kiotprix/Findings/Some findings.md",
     "Courses/Assessments/Kiotprix/Findings/assests/Pasted image 20250903200924.png",
@@ -196,12 +199,8 @@
     "Courses/Assessments/Kiotprix/Findings/Interesting findings",
     "Courses/Assessments/Kiotprix/Findings/assests/Pasted image 20250903195349.png",
     "Courses/Assessments/Kiotprix/Findings/assests",
-    "Courses/Assessments/Kiotprix/Scans/Nmap/Port 139.md",
     "Courses/Assessments/Kiotprix/Findings",
     "Courses/Assessments/Kiotprix/Scans/Nmap/Nmap.md",
-    "Courses/Assessments/Kiotprix/Scans/Niketo Scan.md",
-    "Courses/Assessments/Kiotprix/Scans/Nmap/Port 80 and 143.md",
-    "Courses/Assessments/Kiotprix/Scans/Nmap/port 22.md",
     "Courses/Assessments/Kiotprix/Scans/Nmap",
     "Courses/Assessments/Kiotprix/Scans",
     "Courses/Assessments/Kiotprix/Nmap.md",
@@ -229,7 +228,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/-20250831SubnettingCheatSheet.png",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/Pasted image 20250831233029.png",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/{{CURRENT_YEAR}}{{CURRENT_MONTH}}{{CURRENT_DATE}}-{{CURRENT_HOUR}}{{CURRENT_MINUTE}}{{CURRENT_SECOND}}.png",
-    "Courses/Ethical hacking (tutedude)/assests/Screenshot 2025-08-27 162551.png",
-    "assests/Screenshot 2025-08-27 165035.png"
+    "Courses/Ethical hacking (tutedude)/assests/Screenshot 2025-08-27 162551.png"
   ]
 }

@@ -3,3 +3,23 @@ We started off with the visit of the IP we have identified with the nmap scan an
 
 ![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%204%20-%20Scanning%20and%20Enumeration/assests/Pasted%20image%2020250903214807.png)
 
+After that, we have used Nikto but there are a few things about Nikto:
+
+Nikto is good for a quick, old-school scan for common issues but if the web app has a WAFs (Web Application Firewalls) then it will be blocked off immediately as Nikto is not stealthy, its very loud so it will be detected if there's firewall.
+
+As we are doing this scans on Kioptrix its alright as its an old machine.
+
+```
+nikto -h //https:192.168.15.8
+
+nikto -h 192.168.15.8
+```
+
+-h : hosts 
+
+The complete output is there in the assessment but here is the important thing we can use is this : ==mod_ssl/2.8.4 - mod_ssl 2.8.7 and lower are vulnerable to a remote buffer overflow which may allow a remote shell.==
+
+___ 
+After that we used dirbuster as we know there might be some directories and we used this settings : 
+
+
