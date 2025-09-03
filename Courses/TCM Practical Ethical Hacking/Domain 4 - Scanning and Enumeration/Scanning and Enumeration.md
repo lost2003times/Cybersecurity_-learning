@@ -30,4 +30,38 @@ We found a lot of directories but there was not much there but still there was o
 
 ___
 
+Now we come for the port 139 which is the SMB port commonly used in work environments and used for file sharing so we might have a shot here.
+For that we will be using metasploit :
+```
+msf console
+search smb 
+```
+
+Then i looked for auxilary smb version scan it looked something like this :
+
+==397  auxiliary/scanner/smb/smb_versiondetection==
+```
+use 397 (can use this as well  auxiliary/scanner/smb/smb_versiondetection)
+info
+show options 
+set rhosts 192.168.15.8
+run
+```
+
+We didnt got much but we got this 
+
+192.168.15.8:139      -   Host could not be identified: ==Unix (Samba 2.2.1a)==
+ ___
+ We tried if we can get access using this info with smbclient
+ ```
+ smbclient -L //192.168.15.8
+ ```
+
+```
+        Sharename       Type      Comment
+        ---------       ----      -------
+        IPC$            IPC       IPC Service (Samba Server)
+        ADMIN$          IPC       IPC Service (Samba Server)
+
+```
 
