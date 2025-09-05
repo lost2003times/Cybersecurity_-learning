@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Python for hackers/Python 101 for hackers/Python 101/Strings.md",
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Staged and Non-Staged Payloads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strings"
+              "title": "Staged and Non-Staged Payloads"
             }
           }
         ]
@@ -184,13 +184,19 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
-    "Courses/Python for hackers/Python 101 for hackers/Python 101/Variable and Data types.md",
-    "Courses/Python for hackers/Python 101 for hackers/Python 101/Numbers.md",
-    "Courses/Python for hackers/Python 101 for hackers/Python 101/Strings.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Reverse Shell and Bind Shell.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Staged and Non-Staged Payloads.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250905232725.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250905232605.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Strings.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Variable and Data types.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Numbers.md",
     "CTFS/Root Me _ TryHackMe.md",
     "CTFS/Setting up VPN for CTFS with TryHackMe.md",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/Subnetting.md",
-    "Courses/Python for hackers/Python 101 for hackers/Python 101",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/Introduction.md",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/MAC Addresses.md",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/IP Addresses.md",
@@ -221,14 +227,8 @@
     "Courses/Assessments/Kiotprix/Scans",
     "Courses/Assessments/Kiotprix/Nmap.md",
     "Courses/Assessments/Kiotprix/Untitled.base",
-    "Courses/Assessments/Kiotprix",
-    "Courses/Assessments",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
-    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
-    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Daily_Log_Template.md",
     "Courses/TCM Practical Ethical Hacking/Domain 2 - Ethical Hacker Methodology/assests/Screenshot (47).png",
-    "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/Pasted image 20250831233434.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/-20250831SubnettingCheatSheet.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/Pasted image 20250831233029.png"
+    "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/Pasted image 20250831233434.png"
   ]
 }
