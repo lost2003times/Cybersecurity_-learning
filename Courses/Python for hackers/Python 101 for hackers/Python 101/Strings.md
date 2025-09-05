@@ -117,3 +117,46 @@ string 4 is 13characters long !
 <class 'str'>
 ```
 
+### Input 3:
+
+```
+print("string4 is {} characters long!".format(len(string4)))
+
+print("{} {} {}".format(len(string4),5.0, 0x12))
+print("{0} {2} {1}".format(len(string4),5.0, 0x12))
+print("{length}".format(length=len(string4)))
+
+length = len(string4)
+print(f"string4 is {length} characters long")
+
+print("string4 is {length:.2f}characters long".format(length=len(string4)))
+print("string4 is {length:.3f}characters long".format(length=len(string4)))
+print("string4 is {length:.4f}characters long".format(length=len(string4)))
+
+print("string4 is {length:x}characters long".format(length=len(string4)))
+print("string4 is {length:b}characters long".format(length=len(string4)))
+print("string4 is {length:o}characters long".format(length=len(string4)))
+
+print("string4 is %d characters long!" % len(string4))
+print("string4 is %f characters long!" % len(string4))
+print("string4 is %x characters long!" % len(string4))
+```
+
+### Output 3:
+
+```
+string4 is 13 characters long!
+13 5.0 18
+13 18 5.0
+13
+string4 is 13 characters long
+string4 is 13.00characters long
+string4 is 13.000characters long
+string4 is 13.0000characters long
+string4 is dcharacters long
+string4 is 1101characters long
+string4 is 15characters long
+string4 is 13 characters long!
+string4 is 13.000000 characters long!
+string4 is d characters long!
+```
