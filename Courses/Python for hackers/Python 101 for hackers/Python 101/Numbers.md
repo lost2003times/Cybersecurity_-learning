@@ -1,5 +1,5 @@
 ___
-Input:
+### Input:
 
 ```
 t1_int = 25
@@ -32,7 +32,7 @@ print(round(3.6))
 
 ```
 
-Output:
+### Output:
 
 ```
 python3 Numbers.py

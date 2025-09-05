@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Python for hackers/Python 101 for hackers/Python 101/Numbers.md",
+                "file": "Courses/Python for hackers/Python 101 for hackers/Python 101/Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numbers"
+              "title": "Strings"
             }
           }
         ]
@@ -184,10 +184,11 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
+    "Courses/Python for hackers/Python 101 for hackers/Python 101/Variable and Data types.md",
+    "Courses/Python for hackers/Python 101 for hackers/Python 101/Numbers.md",
+    "Courses/Python for hackers/Python 101 for hackers/Python 101/Strings.md",
     "CTFS/Root Me _ TryHackMe.md",
     "CTFS/Setting up VPN for CTFS with TryHackMe.md",
-    "Courses/Python for hackers/Python 101 for hackers/Python 101/Numbers.md",
-    "Courses/Python for hackers/Python 101 for hackers/Python 101/Variable and Data types.md",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/Subnetting.md",
     "Courses/Python for hackers/Python 101 for hackers/Python 101",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/Introduction.md",
@@ -225,7 +226,6 @@
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/README.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/Learning_Log.md",
     "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Daily_Log_Template.md",
-    "Cybersecurity-Vault-Starter/Cybersecurity-Learning/98_Templates/Note_Template.md",
     "Courses/TCM Practical Ethical Hacking/Domain 2 - Ethical Hacker Methodology/assests/Screenshot (47).png",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/Pasted image 20250831233434.png",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/assests/-20250831SubnettingCheatSheet.png",

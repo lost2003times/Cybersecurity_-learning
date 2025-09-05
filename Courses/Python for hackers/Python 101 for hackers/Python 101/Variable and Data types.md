@@ -1,5 +1,5 @@
 ___
-Input:
+### Input:
 ```
 string = "Jayman"
 print(type(string))
@@ -39,7 +39,7 @@ print(type(No_byte))
 print(No_byte)
 ```
 
-Output:
+### Output:
 
 ```
 python3 variables_and_datatypes.py
