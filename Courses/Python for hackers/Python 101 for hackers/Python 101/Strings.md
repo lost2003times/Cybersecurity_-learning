@@ -63,3 +63,57 @@ I"M JAYMAN
 i"m jayman
 ```
 
+### Input 2:
+
+```
+messy_string = "     Messy,String!"
+print(messy_string)
+print(messy_string.strip())
+
+print(messy_string.replace("!","<>").strip())
+print(messy_string.replace("string","example"))
+
+print(messy_string.split(","))
+print(messy_string.split())
+
+string4 = "I am a string"
+print(string4)
+print(string4.encode())
+print(string4.encode("utf-8"))
+
+print(string4.rjust(25))
+print(string4.rjust(25,"X"))
+
+print(string4.ljust(25))
+print(string4.ljust(25,"J"))
+
+print("I am "+ "a string")
+print("string 4 is " + str(len(string4)) + "characters long ! ")
+print(1+1)
+print("1" + "1")
+print(type("1" + "1"))
+```
+
+### Output 2:
+
+```
+     Messy,String!
+Messy,String!
+Messy,String<>
+     Messy,String!
+['     Messy', 'String!']
+['Messy,String!']
+I am a string
+b'I am a string'
+b'I am a string'
+            I am a string
+XXXXXXXXXXXXI am a string
+I am a string            
+I am a stringJJJJJJJJJJJJ
+I am a string
+string 4 is 13characters long ! 
+2
+11
+<class 'str'>
+```
+
