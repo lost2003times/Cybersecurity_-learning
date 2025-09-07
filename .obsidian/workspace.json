@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with Metasploit.md",
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Manual Exploitation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gaining root with Metasploit"
+              "title": "Manual Exploitation"
             }
           }
         ]
@@ -184,8 +184,10 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
-    "Courses/Important Sites and Search Engines to Know.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250907184443.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with Metasploit.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Manual Exploitation.md",
+    "Courses/Important Sites and Search Engines to Know.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Staged and Non-Staged Payloads.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Reverse Shell and Bind Shell.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002919.png",
@@ -222,11 +224,9 @@
     "Courses/Assessments/Kiotprix/Scans/Niketo Scan.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests",
     "Courses/Assessments/Kiotprix/Findings/Information Disclosure.md",
-    "Courses/Assessments/Kiotprix/Findings/Some findings.md",
     "Courses/Assessments/Kiotprix/Findings/Interesting findings",
     "Courses/Assessments/Kiotprix/Findings/assests",
     "Courses/Assessments/Kiotprix/Findings",
-    "Courses/Assessments/Kiotprix/Scans/Nmap/Nmap.md",
     "Courses/Assessments/Kiotprix/Scans/Nmap",
     "Courses/Assessments/Kiotprix/Scans",
     "Courses/Assessments/Kiotprix/Untitled.base"
