@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with metasploit.md",
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with Metasploit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gaining root with metasploit"
+              "title": "Gaining root with Metasploit"
             }
           }
         ]
@@ -184,13 +184,17 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
+    "Courses/Important Sites and Search Engines to Know.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with Metasploit.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Staged and Non-Staged Payloads.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Reverse Shell and Bind Shell.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002919.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002651.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002334.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002038.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906001717.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Staged and Non-Staged Payloads.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with metasploit.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250905233944.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250905233918.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Reverse Shell and Bind Shell.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250905232725.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250905232605.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests",
@@ -214,15 +218,11 @@
     "Courses/Assessments/Kiotprix/Scans/Nmap/Port 139.md",
     "Courses/Assessments/Kiotprix/Scans/Nmap/Port 80 and 143.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests/Pasted image 20250903221051.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests/Pasted image 20250903220636.png",
     "Courses/Assessments/Kiotprix/Scans/Nmap/port 22.md",
     "Courses/Assessments/Kiotprix/Scans/Niketo Scan.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests/Pasted image 20250903214807.png",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests",
     "Courses/Assessments/Kiotprix/Findings/Information Disclosure.md",
     "Courses/Assessments/Kiotprix/Findings/Some findings.md",
-    "Courses/Assessments/Kiotprix/Findings/assests/Pasted image 20250903200924.png",
-    "Courses/Assessments/Kiotprix/Findings/assests/Pasted image 20250903195826.png",
     "Courses/Assessments/Kiotprix/Findings/Interesting findings",
     "Courses/Assessments/Kiotprix/Findings/assests",
     "Courses/Assessments/Kiotprix/Findings",
