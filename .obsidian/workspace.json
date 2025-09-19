@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Tuples.md",
+                "file": "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tuples"
+              "title": "Lists"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
-    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Variable and Data types.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Tuples.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Lists.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Variable and Data types.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Booleans and Operators.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Manual Exploitation.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250907184717.png",
@@ -222,7 +223,6 @@
     "Courses/Assessments/Kiotprix/Scans/Nmap/Port 139.md",
     "Courses/Assessments/Kiotprix/Scans/Nmap/Port 80 and 143.md",
     "Courses/Assessments/Kiotprix/Scans/Nmap/port 22.md",
-    "Courses/Assessments/Kiotprix/Scans/Niketo Scan.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests",
     "Courses/Assessments/Kiotprix/Findings/Interesting findings",
     "Courses/Assessments/Kiotprix/Findings/assests",
