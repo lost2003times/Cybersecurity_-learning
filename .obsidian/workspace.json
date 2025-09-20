@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Ethical hacking (tutedude)/Cracking Passwords/Cracking hashes.md",
+                "file": "CTFS/Root Me _ TryHackMe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cracking hashes"
+              "title": "Root Me _ TryHackMe"
             }
           }
         ]
@@ -184,8 +184,12 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
-    "Courses/Ethical hacking (tutedude)/Cracking Passwords/Understanding Encryption and Hashing Concepts.md",
+    "CTFS/Setting up VPN for CTFS with TryHackMe.md",
+    "CTFS/Root Me _ TryHackMe.md",
+    "Courses/Important Sites and Search Engines to Know.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 2 - Ethical Hacker Methodology/5 Stages of Hacking.md",
     "Courses/Ethical hacking (tutedude)/Cracking Passwords/Cracking hashes.md",
+    "Courses/Ethical hacking (tutedude)/Cracking Passwords/Understanding Encryption and Hashing Concepts.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Lists.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Tuples.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Variable and Data types.md",
@@ -195,7 +199,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250907184551.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250907184443.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with Metasploit.md",
-    "Courses/Important Sites and Search Engines to Know.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Staged and Non-Staged Payloads.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Reverse Shell and Bind Shell.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002919.png",
@@ -209,8 +212,6 @@
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Strings.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Numbers.md",
-    "CTFS/Root Me _ TryHackMe.md",
-    "CTFS/Setting up VPN for CTFS with TryHackMe.md",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/Subnetting.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/Introduction.md",
@@ -222,7 +223,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Vulnerability Scanning using Nessus.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning with nmap.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
-    "Courses/Assessments/Kiotprix/Scans/Nmap/Port 139.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests",
     "Courses/Assessments/Kiotprix/Findings/Interesting findings",
     "Courses/Assessments/Kiotprix/Findings/assests",
