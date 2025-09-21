@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Assessments/Kiotprix/Scans.md",
+                "file": "Courses/Assessments/Academy/Findings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scans"
+              "title": "Findings"
             }
           }
         ]
@@ -184,12 +184,23 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
-    "Courses/Assessments/Kiotprix/assests/Screenshot 2025-09-20 213835.png",
-    "Courses/Assessments/Kiotprix/assests/Screenshot 2025-09-20 213822.png",
-    "Courses/Assessments/Kiotprix/assests/Screenshot 2025-09-20 213855.png",
+    "Courses/Assessments/Academy/assests/Screenshot 2025-09-20 213534.png",
+    "Courses/Assessments/Academy/assests/Screenshot 2025-09-20 213954.png",
+    "Courses/Assessments/Academy/assests/Screenshot 2025-09-20 213935.png",
+    "Courses/Assessments/Academy/assests/Screenshot 2025-09-20 213926.png",
+    "Courses/Assessments/Academy/assests/Screenshot 2025-09-20 213800.png",
+    "Courses/Assessments/Academy/assests/Screenshot 2025-09-20 213747.png",
+    "Courses/Assessments/Academy/assests/Pasted image 20250921233624.png",
+    "Courses/Assessments/Academy/assests/Screenshot 2025-09-20 213912.png",
+    "Courses/Assessments/Academy/assests",
+    "Courses/Assessments/Academy/Scans.md",
+    "Courses/Assessments/Academy/Findings.md",
+    "Courses/Assessments/Kiotprix/Scans.md",
+    "Courses/Assessments/Kiotprix/assests/Screenshot 2025-09-20 213349.png",
+    "Courses/Assessments/Kiotprix/assests/Screenshot 2025-09-20 213310.png",
+    "Courses/Assessments/Kiotprix/assests/Screenshot 2025-09-20 214008.png",
     "Courses/Assessments/Kiotprix/assests",
     "CTFS/Root Me _ TryHackMe.md",
-    "Courses/Assessments/Kiotprix/Scans.md",
     "Courses/Assessments/Academy",
     "CTFS/Setting up VPN for CTFS with TryHackMe.md",
     "Courses/Important Sites and Search Engines to Know.md",
@@ -201,17 +212,9 @@
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Variable and Data types.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Booleans and Operators.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Manual Exploitation.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250907184717.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250907184551.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250907184443.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with Metasploit.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Staged and Non-Staged Payloads.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Reverse Shell and Bind Shell.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002919.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002651.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002334.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906002038.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250906001717.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Strings.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics",
@@ -223,12 +226,9 @@
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/IP Addresses.md",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/TCP, UDP and Three-way Handshake.md",
     "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/Common Ports and Protocols.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/The OSI Model.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Vulnerability Scanning using Nessus.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests",
     "Courses/Assessments/Kiotprix/Findings/Interesting findings",
     "Courses/Assessments/Kiotprix/Findings/assests",
-    "Courses/Assessments/Kiotprix/Findings",
-    "Courses/Assessments/Kiotprix/Scans/Nmap"
+    "Courses/Assessments/Kiotprix/Findings"
   ]
 }
