@@ -26,3 +26,12 @@ ___
 ![](Courses/Assessments/Academy/assests/Screenshot%202025-09-20%20213954.png)
 
 ![](Courses/Assessments/Academy/assests/Screenshot%202025-09-20%20213534.png)
+
+### Findings from Linpeas
+
+![](Courses/Assessments/Academy/assests/Pasted%20image%2020250921234544.png)
+
+### What's in grimmie?
+
+![](file:///C:/Users/jayma/Pictures/Screenshots/Screenshot%202025-09-20%20213244.png)
+
