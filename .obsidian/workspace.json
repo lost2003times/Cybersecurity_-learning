@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Exploited machines/Dev/Scans.md",
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/The OSI Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scans"
+              "title": "The OSI Model"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "6382799a21a6c38d",
   "lastOpenFiles": [
+    "Courses/TCM Practical Ethical Hacking/Domain 2 - Ethical Hacker Methodology/5 Stages of Hacking.md",
+    "Courses/Exploited machines/Dev/Scans.md",
     "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 175240 1.png",
     "Courses/Exploited machines/Dev/The whole process.md",
     "Courses/Exploited machines/Dev/Findings.md",
@@ -196,8 +198,6 @@
     "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 174639.png",
     "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 175436.png",
     "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 175345.png",
-    "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 175240.png",
-    "Courses/Exploited machines/Dev/Scans.md",
     "Courses/Ethical hacking (tutedude)/Every Important Install.md",
     "Courses/Exploited machines/Dev/assests",
     "Courses/Ethical hacking (tutedude)/Untitled.md",
@@ -212,7 +212,6 @@
     "Courses/Exploited machines/Academy",
     "CTFS/Setting up VPN for CTFS with TryHackMe.md",
     "Courses/Important Sites and Search Engines to Know.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 2 - Ethical Hacker Methodology/5 Stages of Hacking.md",
     "Courses/Ethical hacking (tutedude)/Cracking Passwords/Cracking hashes.md",
     "Courses/Ethical hacking (tutedude)/Cracking Passwords/Understanding Encryption and Hashing Concepts.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Lists.md",
