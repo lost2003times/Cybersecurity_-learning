@@ -11,4 +11,23 @@ ___
 
 - Through that we transfer the linpeas.sh into the victim's system and then use it to search the shell and we find out another credentials as Grimmie as there is suspicious backup file in that.
 - We use Shh to login into the grimmie.
+![](file:///C:/Users/jayma/Pictures/Screenshots/Screenshot%202025-09-20%20213244.png)
 
+- We understood that this file runs itself in sometime so we decide to get confirmation about it using the tool named as pspy64.
+- We download it onto our machine as transfer it my broadcasting our server using python.
+
+![](file:///C:/Users/jayma/Pictures/Screenshots/Screenshot%202025-09-20%20213310.png)
+
+![](file:///C:/Users/jayma/Pictures/Screenshots/Screenshot%202025-09-20%20213446.png)
+
+- We confirmed that this file runs in some interval of times so now we are gonna use reverse shell of one liner which will give us the root access when it will run.
+
+![](file:///C:/Users/jayma/Pictures/Screenshots/Screenshot%202025-09-20%20214024.png)
+
+![](file:///C:/Users/jayma/Pictures/Screenshots/Screenshot%202025-09-20%20213424.png)
+
+- Now we added that code into the backup.sh and now we will wait for the file to run.
+
+![](file:///C:/Users/jayma/Pictures/Screenshots/Screenshot%202025-09-20%20213208.png)
+
+- There we go we get the root access and also we captured the flag.
