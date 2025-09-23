@@ -5,4 +5,5 @@
 5. sudo apt install wine32( if it does not starts to install then no.6)
 6. sudo dpkg --add-architecture i386 ( after entering nothing comes up means it worked)
 7. pipx install search-that-hash
-8. 
+8. sudo apt install fcrackzip
+9. 
