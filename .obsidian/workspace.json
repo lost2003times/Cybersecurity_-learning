@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Physical Active Directory Components.md",
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Logical Active Directory Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physical Active Directory Components"
+              "title": "Logical Active Directory Components"
             }
           }
         ],
@@ -200,8 +200,9 @@
   },
   "active": "a81767a8f09d4567",
   "lastOpenFiles": [
-    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Active Directory Overview.md",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Physical Active Directory Components.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Logical Active Directory Components.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Active Directory Overview.md",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory",
     "Courses/Exploited machines/Black Pearl/assests/Pasted image 20251009203710.png",
     "Courses/Exploited machines/Black Pearl/assests/Pasted image 20251009203636.png",
@@ -243,7 +244,6 @@
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Tuples.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Variable and Data types.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Booleans and Operators.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Manual Exploitation.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics"
   ]
