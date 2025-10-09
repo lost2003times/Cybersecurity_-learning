@@ -53,8 +53,12 @@ ___
 ### Objects
 
 
-| Object        |     |
-| ------------- | --- |
-| User          |     |
-| InetOrgPerson |     |
-| Cont          |     |
+| Object         | Description                                                                                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| User           | Enables network resource access for a user                                                                                                                                |
+| InetOrgPerson  | 1. Similar to a user account.                                                                                    2. Used for compatibility with other directory services. |
+| Contacts       | 1. Used primarily to assign e-mail addresses to external users.                             2. Does not enable network access.                                            |
+| Groups         | Used to simplify the administration of access control.                                                                                                                    |
+| Computers      | Enables authentication and auditing of computer access to resources.                                                                                                      |
+| Printers       | Used to simplify the process of location and connecting to printers.                                                                                                      |
+| Shared folders | Enables users to search for shared folders based on properties.                                                                                                           |
