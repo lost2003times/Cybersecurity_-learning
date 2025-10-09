@@ -25,12 +25,14 @@
             "id": "a81767a8f09d4567",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Physical Active Directory Components.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Physical Active Directory Components"
             }
           }
         ],
@@ -91,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dee54e59b10bac4e",
@@ -197,6 +200,9 @@
   },
   "active": "a81767a8f09d4567",
   "lastOpenFiles": [
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Active Directory Overview.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Physical Active Directory Components.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory",
     "Courses/Exploited machines/Black Pearl/assests/Pasted image 20251009203710.png",
     "Courses/Exploited machines/Black Pearl/assests/Pasted image 20251009203636.png",
     "Courses/Exploited machines/Black Pearl/assests/Pasted image 20251009203111.png",
@@ -220,7 +226,6 @@
     "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 174654.png",
     "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 175528.png",
     "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 174722 1.png",
-    "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 174623 1.png",
     "Courses/Ethical hacking (tutedude)/Every Important Install.md",
     "Courses/Exploited machines/Dev/assests",
     "Courses/Ethical hacking (tutedude)/Untitled.md",
@@ -239,9 +244,7 @@
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Variable and Data types.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Booleans and Operators.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Manual Exploitation.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with Metasploit.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101"
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics"
   ]
 }
