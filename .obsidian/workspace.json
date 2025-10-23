@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dee54e59b10bac4e",
@@ -201,9 +200,9 @@
   "active": "a81767a8f09d4567",
   "lastOpenFiles": [
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251023222322.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/LLMNR Poisoning.md",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/Introduction.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/LLMNR Poisoning.md",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Logical Active Directory Components.md",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Physical Active Directory Components.md",
@@ -232,7 +231,6 @@
     "Courses/Exploited machines/Dev/The whole process.md",
     "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 175602.png",
     "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 174654.png",
-    "Courses/Exploited machines/Dev/assests/Screenshot 2025-09-22 175528.png",
     "Courses/Ethical hacking (tutedude)/Every Important Install.md",
     "Courses/Exploited machines/Dev/assests",
     "Courses/Ethical hacking (tutedude)/Untitled.md",
