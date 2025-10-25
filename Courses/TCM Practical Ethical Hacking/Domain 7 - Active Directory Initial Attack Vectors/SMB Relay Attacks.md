@@ -57,5 +57,17 @@ sudo ntlmrelayx -tf targets.txt -smb2support -c "whoami"
 ```
 ![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025152349.png)
 
-
+### Mitigation Strategies:
+1 Enable SMB Signing on all devices
+- Pro: completely stops the attack
+- Con: Can cause performance issues with file copies
+2 Disable NTLM authentication on network
+- Pro: Completely stops the attack
+- Con: If Kerberos stops working, Windows defaults back to NTLM
+3 Account tiering:
+- Pro: Limits domain admins to specific tasks( eg only log onto servers with need for DA)
+- Con: Enforcing the policy may be difficult
+4 Local admin restriction:
+- Pro: Can prevent a lo of lateral movement
+- Con: Potential increase in the amount of service desk tickets
 
