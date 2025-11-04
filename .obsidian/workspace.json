@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Sys.md",
+                "file": "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Requests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Sys"
+              "title": "Introduction to Requests"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "a81767a8f09d4567",
   "lastOpenFiles": [
-    "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Python Virtual Environment.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Sys.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Requests.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Python Virtual Environment.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Numbers.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Variable and Data types.md",
@@ -225,7 +226,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Active Directory Overview.md",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory",
-    "Courses/Exploited machines/Black Pearl/Findings.md",
     "Courses/Exploited machines/Black Pearl/assests",
     "Courses/Exploited machines/Black Pearl",
     "Courses/Exploited machines/Dev/assests",
