@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to pwntools.md",
+                "file": "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/SSH login brute forcing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to pwntools"
+              "title": "SSH login brute forcing"
             }
           }
         ]
@@ -184,8 +184,10 @@
   },
   "active": "a81767a8f09d4567",
   "lastOpenFiles": [
-    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay Attacks.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to pwntools.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/SSH login brute forcing.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects",
+    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay Attacks.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Requests.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Sys.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Python Virtual Environment.md",
@@ -223,12 +225,10 @@
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/Introduction.md",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Logical Active Directory Components.md",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors",
-    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Physical Active Directory Components.md",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory",
     "Courses/Exploited machines/Black Pearl/assests",
     "Courses/Exploited machines/Black Pearl",
-    "Courses/Exploited machines/Dev/assests",
-    "Courses/Exploited machines/Dev"
+    "Courses/Exploited machines/Dev/assests"
   ]
 }
