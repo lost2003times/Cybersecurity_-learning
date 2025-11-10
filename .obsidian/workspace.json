@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/SSH login brute forcing.md",
+                "file": "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/SHA256 password cracking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH login brute forcing"
+              "title": "SHA256 password cracking"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "a81767a8f09d4567",
   "lastOpenFiles": [
-    "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to pwntools.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/SSH login brute forcing.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/SHA256 password cracking.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to pwntools.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay Attacks.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Requests.md",
@@ -223,7 +224,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251023222322.png",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/Introduction.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Logical Active Directory Components.md",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory",
