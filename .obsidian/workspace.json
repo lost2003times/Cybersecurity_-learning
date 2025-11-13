@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Python for hackers/Python 201 for hackers/Domain 1 - Python 201/Serialization.md",
+                "file": "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serialization"
+              "title": "Introduction"
             }
           }
         ]
@@ -184,8 +184,11 @@
   },
   "active": "a81767a8f09d4567",
   "lastOpenFiles": [
-    "Courses/Python for hackers/Python 101 for hackers/Domain 1 - Introduction/Introduction to the course.md",
+    "Courses/Python for hackers/Python 201 for hackers/Domain 1 - Python 201/Closures.md",
+    "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Introduction.md",
+    "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming",
     "Courses/Python for hackers/Python 201 for hackers/Domain 1 - Python 201/Serialization.md",
+    "Courses/Python for hackers/Python 101 for hackers/Domain 1 - Introduction/Introduction to the course.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 1 - Python 201/Generators.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 1 - Python 201/Decorators.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/Web application brute forcing.md",
@@ -222,13 +225,10 @@
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251025151048.png",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251025150836.png",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251025150646.png",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Sets.md",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Dictionaries.md",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests/Pasted image 20251023222322.png",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/assests",
-    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory",
-    "Courses/Exploited machines/Black Pearl/assests"
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory"
   ]
 }
