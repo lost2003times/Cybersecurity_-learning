@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Introduction"
             }
+          },
+          {
+            "id": "afa4dea4856b151a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a81767a8f09d4567",
+  "active": "afa4dea4856b151a",
   "lastOpenFiles": [
     "Courses/Python for hackers/Python 201 for hackers/Domain 1 - Python 201/Closures.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Introduction.md",
