@@ -7,3 +7,9 @@ ___
 - Delegate - Created for logging into a machine or using Remote Desktop
 - Impersonate - "Non-Interactive" such as attaching a network drive or a domain logon script
 
+## Lab Time
+
+- Turn your DC and the Punisher machine turned on
+
+```
+```
