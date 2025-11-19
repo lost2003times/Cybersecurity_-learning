@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dee54e59b10bac4e",
@@ -185,6 +184,16 @@
   },
   "active": "a81767a8f09d4567",
   "lastOpenFiles": [
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/Pasted image 20251118005531.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/Pasted image 20251118005413.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/Pasted image 20251118005334.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/Pasted image 20251118005244.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/Pasted image 20251118005224.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251118-4.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251118-3.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251118-2.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251118-1.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251118.png",
     "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Class Decorators.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Operator Overloading.md",
@@ -194,17 +203,8 @@
     "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Class, Object and Methods.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Kerberoasting.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-16.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-15.png",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Pass Attacks Mitigation.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Pass Attack Lab.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-14.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-13.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-12.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-11.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-10.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-9.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-8.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/-20251114-7.png",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Pass Attacks.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests",
     "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Introduction.md",
@@ -226,7 +226,6 @@
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Requests.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Sys.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Python Virtual Environment.md",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Numbers.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python",
     "Courses/Python for hackers/Python 101 for hackers/Domain 2 - Python 101/Untitled",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/assests",
