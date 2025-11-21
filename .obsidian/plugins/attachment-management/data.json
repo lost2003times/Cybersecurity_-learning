@@ -1,0 +1,27 @@
+{
+  "language": "en",
+  "attachPath": {
+    "attachmentRoot": "assets ",
+    "saveAttE": "inFolderBelow",
+    "attachmentPath": "/",
+    "attachFormat": "IMG-${date}",
+    "type": "GLOBAL"
+  },
+  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": false,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {
+    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md": {
+      "attachmentRoot": "assets ",
+      "saveAttE": "inFolderBelow",
+      "attachmentPath": "/",
+      "attachFormat": "IMG-${date}",
+      "type": "FILE"
+    }
+  },
+  "disableNotification": false
+}
