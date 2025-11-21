@@ -1,5 +1,5 @@
 {
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "attachmentFolderPath": "./assests",
   "newFileLocation": "root",
   "useMarkdownLinks": true,
