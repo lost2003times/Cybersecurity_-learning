@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Scanning and Enumeration"
             }
+          },
+          {
+            "id": "8a419379a98e5286",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,15 +194,16 @@
       "attachment-manager:Toggle visibility of attachment folder": false
     }
   },
-  "active": "902215264ea317ad",
+  "active": "8a419379a98e5286",
   "lastOpenFiles": [
+    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
+    "Untitled.md",
     "Untitled 1.base",
     "Untitled.base",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assests/Pasted image 20250905232605.png",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests/Pasted image 20250903221051.png",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests/Pasted image 20250903220636.png",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/assests/Pasted image 20250903214807.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Introduction.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/assests/-20251121-2.png",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/assests/-20251121-1.png",
@@ -230,7 +241,6 @@
     "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to pwntools.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay Attacks.md",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Requests.md",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python"
+    "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to Requests.md"
   ]
 }
