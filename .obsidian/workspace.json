@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "C Data types and Structures"
             }
+          },
+          {
+            "id": "3452ef8e05320cc4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "attachment-manager:Toggle visibility of attachment folder": false
     }
   },
-  "active": "2c5340ef8462f6dd",
+  "active": "3452ef8e05320cc4",
   "lastOpenFiles": [
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Introduction.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/C Data types and Structures.md",
