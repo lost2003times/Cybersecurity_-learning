@@ -27,24 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/C Data types and Structures.md",
+                "file": "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Interfacing with the Windows API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Data types and Structures"
+              "title": "Interfacing with the Windows API"
             }
           },
           {
-            "id": "152bc86d4a6fde5b",
+            "id": "40affcedacca2d30",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.11.4"
+                "currentVersion": "1.11.5"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Release Notes 1.11.5"
             }
           }
         ],
@@ -210,10 +210,15 @@
       "attachment-manager:Toggle visibility of attachment folder": false
     }
   },
-  "active": "152bc86d4a6fde5b",
+  "active": "40affcedacca2d30",
   "lastOpenFiles": [
-    "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Introduction.md",
+    "assets /-20260131.png",
+    "assets ",
+    "assets /IMG-20260131164800024.png",
+    "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Interfacing with the Windows API.md_Attachments",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/C Data types and Structures.md",
+    "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Interfacing with the Windows API.md",
+    "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Introduction.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
     "Untitled.md",
     "Untitled 1.base",
@@ -230,7 +235,6 @@
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/Pasted image 20251118005531.png",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/Pasted image 20251118005413.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assests/Pasted image 20251118005334.png",
     "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Class Decorators.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Operator Overloading.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming/Polymorphism.md",
@@ -252,11 +256,7 @@
     "Courses/Python for hackers/Python 201 for hackers/Domain 1 - Python 201/Decorators.md",
     "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/Web application brute forcing.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 1 - Python 201",
-    "Courses/Python for hackers/Python 201 for hackers",
     "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/SHA256 password cracking.md",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/SSH login brute forcing.md",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 3 - Extending Python/Introduction to pwntools.md",
-    "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects",
-    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay Attacks.md"
+    "Courses/Python for hackers/Python 101 for hackers/Domain 4 - Projects/SSH login brute forcing.md"
   ]
 }
