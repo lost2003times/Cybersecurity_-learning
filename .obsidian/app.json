@@ -1,6 +1,6 @@
 {
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./Undocumented API Calls.md_Attachments",
+  "attachmentFolderPath": "./Direct Syscalls.md_Attachments",
   "newFileLocation": "root",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true
