@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Direct Syscalls"
             }
+          },
+          {
+            "id": "75250966061baf3b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
       "attachment-manager:Toggle visibility of attachment folder": false
     }
   },
-  "active": "8a419379a98e5286",
+  "active": "75250966061baf3b",
   "lastOpenFiles": [
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Interfacing with the Windows API.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Direct Syscalls.md",
