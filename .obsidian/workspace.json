@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Execution from a DLL"
             }
+          },
+          {
+            "id": "5dd103dbacbcec64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +225,7 @@
       "attachment-manager:Toggle visibility of attachment folder": false
     }
   },
-  "active": "75250966061baf3b",
+  "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Direct Syscalls.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Execution from a DLL.md",
