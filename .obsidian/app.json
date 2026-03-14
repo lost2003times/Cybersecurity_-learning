@@ -1,6 +1,6 @@
 {
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./SMB Relay Attacks.md_Attachments",
+  "attachmentFolderPath": "./Kerberoasting.md_Attachments",
   "newFileLocation": "root",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true
