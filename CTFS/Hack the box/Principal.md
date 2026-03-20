@@ -31,5 +31,26 @@ ___
 ![](Principal.md_Attachments/Screenshot%202026-03-19%20120445.png)
 ## Manual Exploitation
 
-- As we found the RSA key we can 
+- As we found the RSA key we can try to generate one by writing a python script.
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20124548.png)
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20131108.png)
+
+### Burp Suite 
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20133226.png)
+
+- We were Unauthorized so we need to make sure we are generating the token for the role which is authorized.
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20135203.png)
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20135220.png)
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20135120.png)
+
+- Now we know Admin role is required and we have that information from the source page of the website.
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20135335.png)
+
+### Updated Python script
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-20%20133650.png)
 
