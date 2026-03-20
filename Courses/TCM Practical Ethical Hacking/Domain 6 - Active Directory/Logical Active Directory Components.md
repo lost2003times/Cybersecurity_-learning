@@ -44,7 +44,7 @@ ___
 ### Trusts
 - Trusts provide a mechanism for users to gain access to resources in another domain.
 
-![](assets/Pasted%20image%2020251009222024.png)
+![](Logical%20Active%20Directory%20Components.md_Attachments/-20260320.png)
 
 1. All domains in a forest trust all other domains in the forest.
 2. Trusts can extent outside the forest.

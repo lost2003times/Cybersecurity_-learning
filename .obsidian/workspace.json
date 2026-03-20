@@ -11,14 +11,12 @@
             "id": "5dd103dbacbcec64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md",
-                "mode": "source",
-                "source": false
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assets/Pasted image 20250905233918.png"
               },
-              "icon": "lucide-file",
-              "title": "Token Impersonation"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250905233918"
             }
           }
         ]
@@ -185,6 +183,18 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assets/Pasted image 20250905232725.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assets/Pasted image 20250905232605.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Manual Exploitation.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Logical Active Directory Components.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Physical Active Directory Components.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Active Directory Overview.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with Metasploit.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Reverse Shell and Bind Shell.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Staged and Non-Staged Payloads.md",
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Logical Active Directory Components.md_Attachments/-20260320.png",
+    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Logical Active Directory Components.md_Attachments",
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assets/-20260320.png",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assets/Pasted image 20260320115132.png",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md_Attachments/Token Impersonation-20260320114902466.png",
@@ -193,14 +203,10 @@
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md_Attachments/Pasted image 20260320114510.png",
     "assets /IMG-20260320114213066.png",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay Attacks.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md",
     "assets /IMG-20260320113221859.png",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Kerberoasting.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Pass Attacks Mitigation.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Logical Active Directory Components.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Physical Active Directory Components.md",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/LLMNR Poisoning.md",
-    "assets /IMG-20260320110205346.png",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md_Attachments",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/Introduction.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Pass Attack Lab.md",
@@ -215,21 +221,13 @@
     "Courses/Exploited machines/Black Pearl/Findings.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Vulnerability Scanning using Nessus.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
-    "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Direct Syscalls.md",
-    "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Execution from a DLL.md",
     "Untitled.base",
-    "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Interfacing with the Windows API.md",
-    "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Undocumented API Calls.md",
-    "assets /-20260131.png",
     "assets ",
-    "assets /IMG-20260131164800024.png",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Interfacing with the Windows API.md_Attachments",
-    "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/C Data types and Structures.md",
     "Untitled 1.base",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/assests",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assets",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks",
-    "Courses/Python for hackers/Python 201 for hackers/Domain 2 - Object Oriented Programming"
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks"
   ]
 }
