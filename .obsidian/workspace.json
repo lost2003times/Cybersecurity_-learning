@@ -11,12 +11,14 @@
             "id": "5dd103dbacbcec64",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assets/Pasted image 20250905233918.png"
+                "file": "CTFS/Hack the box/Principal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250905233918"
+              "icon": "lucide-file",
+              "title": "Principal"
             }
           }
         ]
@@ -183,6 +185,9 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assets/Pasted image 20250905233918.png",
+    "CTFS/Hack the box/Principal.md",
+    "CTFS/Hack the box",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assets/Pasted image 20250905232725.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/assets/Pasted image 20250905232605.png",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Manual Exploitation.md",
@@ -203,7 +208,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md_Attachments/Pasted image 20260320114510.png",
     "assets /IMG-20260320114213066.png",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/SMB Relay Attacks.md",
-    "assets /IMG-20260320113221859.png",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Kerberoasting.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Pass Attacks Mitigation.md",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/LLMNR Poisoning.md",
@@ -220,14 +224,12 @@
     "Courses/Exploited machines/Black Pearl/The whole process.md",
     "Courses/Exploited machines/Black Pearl/Findings.md",
     "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Vulnerability Scanning using Nessus.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 4 - Scanning and Enumeration/Scanning and Enumeration.md",
     "Untitled.base",
     "assets ",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/Interfacing with the Windows API.md_Attachments",
     "Untitled 1.base",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API/assests",
     "Courses/Python for hackers/Python 201 for hackers/Domain 3 - The Windows API",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assets",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks"
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/assets"
   ]
 }
