@@ -32,52 +32,52 @@ ___
 ## Manual Exploitation
 
 - As we found the RSA key we can try to generate one by writing a python script.
+![](Principal.md_Attachments/Screenshot%202026-03-19%20124548.png)
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20124548.png)
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20131108.png)
-
+![](Principal.md_Attachments/Screenshot%202026-03-19%20131108.png)
 ### Burp Suite 
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20133226.png)
+![](Principal.md_Attachments/Screenshot%202026-03-19%20133226%201.png)
 
 - We were Unauthorized so we need to make sure we are generating the token for the role which is authorized.
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20135203.png)
+![](Principal.md_Attachments/Screenshot%202026-03-19%20135203.png)
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20135220.png)
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20135120.png)
+![](Principal.md_Attachments/Screenshot%202026-03-19%20135220.png)
+
+![](Principal.md_Attachments/Screenshot%202026-03-19%20135120.png)
 
 - Now we know Admin role is required and we have that information from the source page of the website.
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20135335.png)
+
+![](Principal.md_Attachments/Screenshot%202026-03-19%20135335.png)
 
 ### Updated Python script
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-20%20133650.png)
+![](Principal.md_Attachments/Screenshot%202026-03-20%20133650.png)
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20140517.png)
+![](Principal.md_Attachments/Screenshot%202026-03-19%20140517.png)
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20140914.png)
+![](Principal.md_Attachments/Screenshot%202026-03-19%20140914.png)
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20140928.png)
+![](Principal.md_Attachments/Screenshot%202026-03-19%20140928.png)
 
 - With these we received some important information, we found the username for ssh along with the password which we will used to get a shell.
 
 ## Getting a shell
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150655.png)
+![](Principal.md_Attachments/Screenshot%202026-03-19%20150655.png)
 
 - As we get into shell I know we have the User flag so I started working on getting the root flag first. 
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150712.png)
+![](Principal.md_Attachments/Screenshot%202026-03-19%20150712.png)
 
 - There we found the ssh file and then we generate a key to be used to get a root shell.
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150727.png)
 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150750.png)
+![](Principal.md_Attachments/Screenshot%202026-03-19%20150727.png)
+
+![](Principal.md_Attachments/Screenshot%202026-03-19%20150750.png)
 
 - And there we found the root shell and we got the root.txt 
-![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150813.png)
- - Along with that I retrieved the user.txt as well. 
-
+-  Along with that I retrieved the user.txt as well. 
+![](Principal.md_Attachments/Screenshot%202026-03-19%20150813.png)
 **Now we have both the user flag and the root flag.**
-
