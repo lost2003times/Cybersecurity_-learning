@@ -54,3 +54,30 @@ ___
 
 ![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-20%20133650.png)
 
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20140517.png)
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20140914.png)
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20140928.png)
+
+- With these we received some important information, we found the username for ssh along with the password which we will used to get a shell.
+
+## Getting a shell
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150655.png)
+
+- As we get into shell I know we have the User flag so I started working on getting the root flag first. 
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150712.png)
+
+- There we found the ssh file and then we generate a key to be used to get a root shell.
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150727.png)
+
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150750.png)
+
+- And there we found the root shell and we got the root.txt 
+![](file:///J:/Jayman/Cyber%20Security%20MSc/NSPT/Machines/Principal/Screenshot%202026-03-19%20150813.png)
+ - Along with that I retrieved the user.txt as well. 
+
+**Now we have both the user flag and the root flag.**
+
