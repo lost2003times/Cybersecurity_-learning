@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFS/Hack the box/Principal.md",
+                "file": "Courses/TCM Practical Ethical Hacking/Domain 1 - Networking Refresher/The OSI Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principal"
+              "title": "The OSI Model"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
+    "CTFS/Hack the box/Principal.md",
     "CTFS/Hack the box/Principal.md_Attachments/Screenshot 2026-03-19 150750.png",
     "CTFS/Hack the box/Principal.md_Attachments/Screenshot 2026-03-19 150727.png",
     "CTFS/Hack the box/Principal.md_Attachments/Screenshot 2026-03-19 150712.png",
@@ -195,9 +196,7 @@
     "CTFS/Hack the box/Principal.md_Attachments/Screenshot 2026-03-20 133650.png",
     "CTFS/Hack the box/Principal.md_Attachments/Screenshot 2026-03-19 135335.png",
     "CTFS/Hack the box/Principal.md_Attachments/Screenshot 2026-03-19 135120.png",
-    "CTFS/Hack the box/Principal.md_Attachments/Screenshot 2026-03-19 135220.png",
     "CTFS/Root Me _ TryHackMe.md",
-    "CTFS/Hack the box/Principal.md",
     "CTFS/Hack the box/Principal.md_Attachments",
     "CTFS/Hack the box",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Manual Exploitation.md",
