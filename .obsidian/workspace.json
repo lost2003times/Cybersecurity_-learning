@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFS/Setting up VPN for CTFS with TryHackMe.md",
+                "file": "CTFS/Hack the box/Cap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting up VPN for CTFS with TryHackMe"
+              "title": "Cap"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
+    "CTFS/Setting up VPN for CTFS with TryHackMe.md",
     "CTFS/Root Me _ TryHackMe.md",
     "Untitled.base",
     "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Identifying Website Technologies.md",
