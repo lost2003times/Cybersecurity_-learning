@@ -54,4 +54,31 @@ Nmap done: 1 IP address (1 host up) scanned in 13.84 seconds
 
 ![](Cap.md_Attachments/Screenshot%202026-03-20%20210725.png)
 
-![](Cap.md_Attachments/Screenshot%202026-03-20%20211523.png)
+![](Cap.md_Attachments/Screenshot%202026-03-20%20211523.png) 
+
+- We got the access of the nathan shell by getting the password from the wireshark and then we found the user.txt, **we got our user flag.**
+
+![](Cap.md_Attachments/Screenshot%202026-03-20%20211843.png)
+
+- Now to get the root flag we use linPeas on the nathan shell.
+- To do that we start the server on our machine and then use wget on nathan shell to transfer the linpeas file.
+
+![](Cap.md_Attachments/Screenshot%202026-03-20%20210922.png)
+
+![](Cap.md_Attachments/Screenshot%202026-03-20%20210825.png)
+
+![](Cap.md_Attachments/Screenshot%202026-03-20%20211543.png)
+
+- Here we escalated the linpeas privilege so we can run it and find the information about the path to the binary which can be abused to obtain root privileges.
+
+![](Cap.md_Attachments/Screenshot%202026-03-20%20211609.png)![](Cap.md_Attachments/Screenshot%202026-03-20%20211711.png)
+
+- We found the path : 
+```
+/usr/bin/python3.8
+```
+
+![](Cap.md_Attachments/Screenshot%202026-03-20%20211735.png)
+
+**We got the root flag.**
+

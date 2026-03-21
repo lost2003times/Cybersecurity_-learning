@@ -1,7 +1,7 @@
 ___ 
 We started off with the visit of the IP we have identified with the nmap scan and we see an default web page which is considered a poor hygiene for a web page owner so we get some of the indications from this kind of a web page, first is that, there are other files or directories behind this page and the second is that we get not much but some information from this page is this :
 
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%204%20-%20Scanning%20and%20Enumeration/assests/Pasted%20image%2020250903214807.png)
+![](assets/Pasted%20image%2020250903214807.png)
 
 After that, we have used Nikto but there are a few things about Nikto:
 
@@ -22,11 +22,11 @@ The complete output is there in the assessment but here is the important thing w
 ___ 
 After that we used dirbuster as we know there might be some directories and we used this settings : 
 
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%204%20-%20Scanning%20and%20Enumeration/assests/Pasted%20image%2020250903220636.png)
+![](assets/Pasted%20image%2020250903220636.png)
 
 We found a lot of directories but there was not much there but still there was one thing which we might end up using : 
 
-![](Courses/TCM%20Practical%20Ethical%20Hacking/Domain%204%20-%20Scanning%20and%20Enumeration/assests/Pasted%20image%2020250903221051.png)
+![](assets/Pasted%20image%2020250903221051.png)
 
 ___
 
