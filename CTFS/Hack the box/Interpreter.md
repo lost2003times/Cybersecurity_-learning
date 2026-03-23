@@ -34,3 +34,36 @@ python3 detection.py http://10.129.244.184
 python3 CVE-2023-43208.py -u https://10.129.244.184 -c 'touch /tmp/proof'
 ```
 
+- We set up an listener on another terminal. 
+
+![](Interpreter.md_Attachments/Screenshot%202026-03-21%20224546.png)
+
+- And there we got a shell.
+
+![](Interpreter.md_Attachments/Screenshot%202026-03-21%20224710.png)
+
+- After giving some SQL commands we got the hash password for user Sedric.
+- I was not able to crack that hash on my own with the resources I had available so I saw the password from the walkthrough blog and the continued.
+
+![](Interpreter.md_Attachments/Screenshot%202026-03-21%20191854.png)
+
+- Using ssh I get the sedric user's shell and the password was "Snowflake1".
+
+![](Interpreter.md_Attachments/Screenshot%202026-03-21%20224756.png)
+
+- Here we got the **user.txt** (the user flag).
+- Then we check the directory /usr/local/bin/notif.py.
+
+![](Interpreter.md_Attachments/Screenshot%202026-03-21%20224843.png)
+
+![](Interpreter.md_Attachments/Screenshot%202026-03-21%20224900.png)
+
+![](Interpreter.md_Attachments/Screenshot%202026-03-21%20225938.png)
+
+- Now we try to get the root flag by using the script above.
+
+![](Interpreter.md_Attachments/Screenshot%202026-03-21%20225954.png)
+
+![](Interpreter.md_Attachments/Screenshot%202026-03-21%20230010.png)
+
+- **And here we found the root flag as well.**
