@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Facts"
             }
+          },
+          {
+            "id": "540c0f68181875c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "attachment-manager:Toggle visibility of attachment folder": false
     }
   },
-  "active": "5dd103dbacbcec64",
+  "active": "540c0f68181875c8",
   "lastOpenFiles": [
     "CTFS/Hack the box/Interpreter.md",
     "CTFS/Hack the box/Facts.md",
