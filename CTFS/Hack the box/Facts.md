@@ -45,3 +45,29 @@ ___
 
 ![](Facts.md_Attachments/Screenshot%202026-03-23%20190351.png)
 
+- Found the github repo by searching about the Camaleon CMS exploit.
+
+![](Facts.md_Attachments/Screenshot%202026-03-23%20195520.png)
+
+![](Facts.md_Attachments/Screenshot%202026-03-23%20195556.png)
+
+![](Facts.md_Attachments/Screenshot%202026-03-23%20195951.png)
+
+![](Facts.md_Attachments/Screenshot%202026-03-23%20200006.png)
+
+## Exploitation 
+
+![](Facts.md_Attachments/Screenshot%202026-03-23%20200038.png)
+
+![](Facts.md_Attachments/Screenshot%202026-03-23%20200058.png)
+
+![](Facts.md_Attachments/Screenshot%202026-03-23%20200127.png)
+
+- Found the **user.txt means user flag.**
+
+![](Facts.md_Attachments/Screenshot%202026-03-23%20200316.png)
+
+![](Facts.md_Attachments/Screenshot%202026-03-23%20200329.png)
+
+- **Got the root flag.**
+
