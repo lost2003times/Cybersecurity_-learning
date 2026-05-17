@@ -70,3 +70,34 @@ i = 3
     generate subsets of size 3
 ...
 ```
+
+4. Grid Paths
+
+You start at top-left of a 3x3 grid.
+You may only move:
+right
+down
+How many unique paths reach bottom-right?
+
+```
+from itertools import permutations
+moves = ['R','R','D','D']
+paths = set(permutations(moves))
+
+for path in paths:
+    print(''.join(path))
+
+print("/n Total paths:",len(paths))
+```
+
+Output something like this: 
+```
+DDRR
+RDDR
+DRRD
+RDRD
+DRDR
+RRDD
+/n Total paths: 6
+```
+
