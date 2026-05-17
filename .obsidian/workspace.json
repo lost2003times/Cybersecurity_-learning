@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Python for hackers/Python 201 for hackers/Domain 4 - Extending Python/Beautifulsoup.md",
+                "file": "Extra studying/Python Foundational.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beautifulsoup"
+              "title": "Python Foundational"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
-    "CTFS/Hack the box/Principal.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 4 - Extending Python/Beautifulsoup.md",
+    "Extra studying/Python Foundational.md",
+    "Extra studying",
+    "CTFS/Hack the box/Principal.md",
     "Courses/Python for hackers/Python 201 for hackers/Domain 4 - Extending Python",
     "CTFS/Hack the box/Principal.md_Attachments/Principal-20260331161715082.png",
     "CTFS/Hack the box/Principal 1.md",
@@ -228,8 +230,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Kerberoasting.md",
     "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Pass Attacks Mitigation.md",
     "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/LLMNR Poisoning.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md_Attachments",
-    "Courses/TCM Practical Ethical Hacking/Domain 7 - Active Directory Initial Attack Vectors/Introduction.md",
-    "assets "
+    "Courses/TCM Practical Ethical Hacking/Domain 8 - Attacking Active Directory - Post Compromise Attacks/Token Impersonation.md_Attachments"
   ]
 }
