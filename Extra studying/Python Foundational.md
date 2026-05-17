@@ -12,4 +12,26 @@ else:
     print("Invalid!!")
 ```
 
-2. 
+2. Count binary strings of length n that do NOT contain consecutive 1s.
+```
+memo = {}
+
+def count_strings(n):
+
+    if n in memo:
+        return memo[n]
+    
+    if n == 1:
+        return 2
+    
+    if n == 2:
+        return 3
+    
+    memo[n] = count_strings(n-1) + count_strings(n-2)
+
+    return memo[n]
+
+n = int(input("Enter the value of n:"))
+print("The count is : ", count_strings(n))
+```
+
