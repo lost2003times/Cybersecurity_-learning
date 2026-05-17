@@ -101,3 +101,15 @@ RRDD
 /n Total paths: 6
 ```
 
+5. Valid Parentheses Count: Count all valid parentheses strings of length 2n.
+```
+from math import comb
+
+n = int(input("Enter n: "))
+
+count = comb(2*n,n) // (n+1)
+
+print("valid strings: ", count)
+```
+
+**Catalan formula used.**
