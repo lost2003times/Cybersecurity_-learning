@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/100 Days of python/Day 9/Blind Auction.md",
+                "file": "Courses/100 Days of python/Day 10/Calculator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blind Auction"
+              "title": "Calculator"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
-    "Courses/100 Days of python/Day 8/Ceaser cipher.md",
     "Courses/100 Days of python/Day 9/Blind Auction.md",
+    "Courses/100 Days of python/Day 10/Calculator.md",
+    "Courses/100 Days of python/Day 10",
+    "Courses/100 Days of python/Day 8/Ceaser cipher.md",
     "Courses/100 Days of python/Day 9",
     "Courses/100 Days of python/Day 8/Life in weeks.md",
     "CTFS/Setting up VPN for CTFS with TryHackMe.md",
@@ -218,7 +220,6 @@
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 195520.png",
     "CTFS/Hack the box/Facts.md_Attachments",
     "CTFS/Hack the box/Interpreter.md_Attachments",
-    "Untitled.base",
     "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Identifying Website Technologies.md",
     "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Hunting Subdomains.md",
     "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Discovering Email Addresses.md",
@@ -229,7 +230,6 @@
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Physical Active Directory Components.md",
     "Courses/TCM Practical Ethical Hacking/Domain 6 - Active Directory/Active Directory Overview.md",
     "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Gaining root with Metasploit.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Reverse Shell and Bind Shell.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Staged and Non-Staged Payloads.md"
+    "Courses/TCM Practical Ethical Hacking/Domain 5 - Exploitation Basics/Reverse Shell and Bind Shell.md"
   ]
 }
