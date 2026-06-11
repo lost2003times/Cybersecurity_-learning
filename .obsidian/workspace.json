@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/100 Days of python/Day 10/Calculator.md",
+                "file": "Courses/100 Days of python/Day 8/Ceaser cipher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculator"
+              "title": "Ceaser cipher"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
-    "Courses/100 Days of python/Day 9/Blind Auction.md",
+    "Extra studying/Python Foundational.md",
+    "Courses/100 Days of python/Day 7/Hangman.py.md",
     "Courses/100 Days of python/Day 10/Calculator.md",
+    "Courses/100 Days of python/Day 9/Blind Auction.md",
     "Courses/100 Days of python/Day 10",
     "Courses/100 Days of python/Day 8/Ceaser cipher.md",
     "Courses/100 Days of python/Day 9",
@@ -196,9 +198,7 @@
     "Untitled",
     "CTFS/Root Me _ TryHackMe.md",
     "CTFS/Hack the box/Principal.md",
-    "Courses/100 Days of python/Day 7/Hangman.py.md",
     "Courses/100 Days of python/Day 7/Hangman_wordlists.py.md",
-    "Extra studying/Python Foundational.md",
     "Courses/100 Days of python/Day 7",
     "Courses/100 Days of python",
     "Courses/Python for hackers/Python 201 for hackers/Domain 4 - Extending Python/Beautifulsoup.md",
