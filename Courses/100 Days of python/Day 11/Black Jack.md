@@ -1,6 +1,6 @@
 ```
 import random 
-
+import os
 def draw_cards():
     cards = [11,2,3,4,5,6,7,8,9,10,10,10,10]
     card = random.choice(cards)
@@ -29,38 +29,44 @@ def compare(user_score, computer_score):
         return "You Win!!!"
     else:
         return "You lose."
-    
-game_over = False 
-computer_score = -1
-user_score = -1
-user_cards = []
 
-computer_cards = []
+def playgame():    
+    game_over = False 
+    computer_score = -1
+    user_score = -1
+    user_cards = []
 
-for _ in range(2):
-    user_cards.append(draw_cards())
-    computer_cards.append(draw_cards())
-while not game_over:
-    user_score = calculate(user_cards)
-    computer_score = calculate(computer_cards)
-    print(f"Your cards are {user_cards} and your current score is {user_score}")
-    print(f"Computers first card are {computer_cards[0]}")
+    computer_cards = []
 
-    if computer_score == 0 or user_score == 0 or user_score > 21:
-        game_over = True
-    else: 
-        user_should_deal = input("Enter 'y' if you want another card or 'n' if you are scared.\n").lower()
-        if user_should_deal == "y":
-            user_cards.append(draw_cards())
-        elif user_should_deal == "n":
+    for _ in range(2):
+        user_cards.append(draw_cards())
+        computer_cards.append(draw_cards())
+    while not game_over:
+        user_score = calculate(user_cards)
+        computer_score = calculate(computer_cards)
+        print(f"Your cards are {user_cards} and your current score is {user_score}")
+        print(f"Computers first card are {computer_cards[0]}")
+
+        if computer_score == 0 or user_score == 0 or user_score > 21:
             game_over = True
+        else: 
+            user_should_deal = input("Enter 'y' if you want another card or 'n' if you are scared.\n").lower()
+            if user_should_deal == "y":
+                user_cards.append(draw_cards())
+            elif user_should_deal == "n":
+                game_over = True
 
-while computer_score != 0 and computer_score < 17:
-    computer_cards.append(draw_cards())
-    #print(f"Computers second hand : {computer_cards}")
-    computer_score = calculate(computer_cards)
+    while computer_score != 0 and computer_score < 17:
+        computer_cards.append(draw_cards())
+        #print(f"Computers second hand : {computer_cards}")
+        computer_score = calculate(computer_cards)
+        
 
-print(f"your final hand : {user_cards}, final score: {user_score}")
-print(f"Computer's final hand: {computer_cards}, computers final score: {computer_score}")
-print(compare(user_score, computer_score))
+    print(f"your final hand : {user_cards}, final score: {user_score}")
+    print(f"Computer's final hand: {computer_cards}, computers final score: {computer_score}")
+    print(compare(user_score, computer_score))
+
+while input("Do you want to play ? 'y' or 'n' ").lower() == "y":
+    os.system('cls' if os.name == 'nt' else clear)
+    playgame()
 ```
