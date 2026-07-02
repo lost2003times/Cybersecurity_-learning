@@ -1,6 +1,6 @@
 {
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./Debugging.md_Attachments",
+  "attachmentFolderPath": "./data.md_Attachments",
   "newFileLocation": "root",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true
