@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/100 Days of python/Day 15/Coffee machine.md",
+                "file": "Courses/100 Days of python/Day 16/OOP Coffee Maker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coffee machine"
+              "title": "OOP Coffee Maker"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
-    "Courses/100 Days of python/Day 14/data.md",
+    "Courses/100 Days of python/Day 16/Importing modules.md",
+    "Courses/100 Days of python/Day 16/OOP Coffee Maker.md",
+    "Courses/100 Days of python/Day 16/Turtle.md",
     "Courses/100 Days of python/Day 15/Coffee machine.md",
+    "Courses/100 Days of python/Day 16/Turtle",
+    "Courses/100 Days of python/Day 16",
+    "Courses/100 Days of python/Day 14/data.md",
     "Courses/100 Days of python/Day 15",
     "Courses/100 Days of python/Day 14/Higher Lower.md",
     "Courses/100 Days of python/Day 13/Debugging.md",
@@ -207,11 +212,9 @@
     "Courses/100 Days of python/Day 8/Life in weeks.md",
     "CTFS/Setting up VPN for CTFS with TryHackMe.md",
     "Courses/100 Days of python/Day 8",
-    "Untitled",
     "CTFS/Root Me _ TryHackMe.md",
     "CTFS/Hack the box/Principal.md",
     "Courses/100 Days of python/Day 7/Hangman_wordlists.py.md",
-    "Courses/100 Days of python/Day 7",
     "Courses/Python for hackers/Python 201 for hackers/Domain 4 - Extending Python/Beautifulsoup.md",
     "CTFS/Hack the box/Principal.md_Attachments/Principal-20260331161715082.png",
     "CTFS/Hack the box/Principal 1.md",
@@ -227,9 +230,6 @@
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 195951.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 195556.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 195520.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Identifying Website Technologies.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Hunting Subdomains.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Discovering Email Addresses.md",
-    "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Passive Reconnaissance Overview.md"
+    "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Identifying Website Technologies.md"
   ]
 }
