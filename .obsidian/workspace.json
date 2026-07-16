@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/100 Days of python/Day 16/OOP Coffee Maker.md",
+                "file": "CTFS/Hack the box/Principal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP Coffee Maker"
+              "title": "Principal"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
-    "Courses/100 Days of python/Day 16/Importing modules.md",
+    "CTFS/Hack the box/Facts.md",
+    "CTFS/Hack the box/Interpreter.md",
     "Courses/100 Days of python/Day 16/OOP Coffee Maker.md",
+    "Courses/100 Days of python/Day 16/Importing modules.md",
     "Courses/100 Days of python/Day 16/Turtle.md",
     "Courses/100 Days of python/Day 15/Coffee machine.md",
     "Courses/100 Days of python/Day 16/Turtle",
@@ -218,9 +220,7 @@
     "Courses/Python for hackers/Python 201 for hackers/Domain 4 - Extending Python/Beautifulsoup.md",
     "CTFS/Hack the box/Principal.md_Attachments/Principal-20260331161715082.png",
     "CTFS/Hack the box/Principal 1.md",
-    "CTFS/Hack the box/Interpreter.md",
     "CTFS/Hack the box/Cap.md",
-    "CTFS/Hack the box/Facts.md",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200329.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200316.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200127.png",
