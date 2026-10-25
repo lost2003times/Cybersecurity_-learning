@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/100 Days of python/Day 16/Importing modules.md",
+                "file": "Courses/100 Days of python/Day 16/OOP Coffee Maker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Importing modules"
+              "title": "OOP Coffee Maker"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/100 Days of python/Day 16/Importing modules.md",
+                "file": "Courses/100 Days of python/Day 16/OOP Coffee Maker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,9 +176,9 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
-    "Courses/100 Days of python/Day 16/Turtle.md",
-    "Courses/100 Days of python/Day 16/OOP Coffee Maker.md",
     "Courses/100 Days of python/Day 16/Importing modules.md",
+    "Courses/100 Days of python/Day 16/OOP Coffee Maker.md",
+    "Courses/100 Days of python/Day 16/Turtle.md",
     "CTFS/Hack the box/Principal.md",
     "CTFS/Hack the box/Facts.md",
     "CTFS/Hack the box/Interpreter.md",
