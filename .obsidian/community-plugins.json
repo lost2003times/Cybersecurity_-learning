@@ -1,6 +1,6 @@
 [
   "templater-obsidian",
-  "obsidian-git",
   "obsidian-paste-image-rename",
-  "attachment-manager"
+  "attachment-manager",
+  "obsidian-git"
 ]
