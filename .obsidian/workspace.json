@@ -11,14 +11,13 @@
             "id": "5dd103dbacbcec64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Courses/100 Days of python/Day 16/Turtle.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Turtle"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/100 Days of python/Day 16/Turtle.md",
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,9 +175,15 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
+    "Extra studying/Python Foundational.md",
+    "Courses/100 Days of python/Day 17/main.py.md",
+    "Courses/100 Days of python/Day 17/quiz_brain.py.md",
+    "Courses/100 Days of python/Day 17/data.py.md",
+    "Courses/100 Days of python/Day 17/question_model.py.md",
+    "Courses/100 Days of python/Day 16/Turtle.md",
+    "Courses/100 Days of python/Day 17",
     "Courses/100 Days of python/Day 16/OOP Coffee Maker.md",
     "Courses/100 Days of python/Day 16/Importing modules.md",
-    "Courses/100 Days of python/Day 16/Turtle.md",
     "CTFS/Hack the box/Principal.md",
     "CTFS/Hack the box/Facts.md",
     "CTFS/Hack the box/Interpreter.md",
@@ -199,19 +204,14 @@
     "Courses/100 Days of python/Day 7/Hangman.py.md",
     "Courses/100 Days of python/Day 11",
     "Courses/100 Days of python/Day 8/Ceaser cipher.md",
-    "Extra studying/Python Foundational.md",
     "Courses/100 Days of python/Day 10/Calculator.md",
     "Courses/100 Days of python/Day 10",
     "Courses/100 Days of python/Day 9",
     "Courses/100 Days of python/Day 8/Life in weeks.md",
     "CTFS/Setting up VPN for CTFS with TryHackMe.md",
-    "Courses/100 Days of python/Day 8",
     "CTFS/Root Me _ TryHackMe.md",
     "Courses/100 Days of python/Day 7/Hangman_wordlists.py.md",
-    "Courses/Python for hackers/Python 201 for hackers/Domain 4 - Extending Python/Beautifulsoup.md",
     "CTFS/Hack the box/Principal.md_Attachments/Principal-20260331161715082.png",
-    "CTFS/Hack the box/Principal 1.md",
-    "CTFS/Hack the box/Cap.md",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200329.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200316.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200127.png",
@@ -220,7 +220,6 @@
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200006.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 195951.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 195556.png",
-    "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 195520.png",
-    "Courses/TCM Practical Ethical Hacking/Domain 3 - Information Gathering/Identifying Website Technologies.md"
+    "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 195520.png"
   ]
 }
