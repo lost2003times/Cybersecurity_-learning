@@ -11,13 +11,14 @@
             "id": "5dd103dbacbcec64",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Courses/100 Days of python/Day 18/hirstbkc.py.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "hirstbkc.py"
             }
           }
         ]
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Courses/100 Days of python/Day 18/hirstbkc.py.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,6 +176,12 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
+    "Courses/100 Days of python/Day 18/hirstbkc.py.md_Attachments/hirst.jpg",
+    "Courses/100 Days of python/Day 18/hirstbkc.py.md_Attachments",
+    "Courses/100 Days of python/Day 18/challenge.py.md",
+    "Courses/100 Days of python/Day 18/hirstbkc.py.md",
+    "Untitled.base",
+    "Courses/100 Days of python/Day 18",
     "Extra studying/Python Foundational.md",
     "Courses/100 Days of python/Day 17/main.py.md",
     "Courses/100 Days of python/Day 17/quiz_brain.py.md",
@@ -202,15 +209,9 @@
     "Courses/100 Days of python/Day 12",
     "Courses/100 Days of python/Day 9/Blind Auction.md",
     "Courses/100 Days of python/Day 7/Hangman.py.md",
-    "Courses/100 Days of python/Day 11",
     "Courses/100 Days of python/Day 8/Ceaser cipher.md",
     "Courses/100 Days of python/Day 10/Calculator.md",
-    "Courses/100 Days of python/Day 10",
-    "Courses/100 Days of python/Day 9",
     "Courses/100 Days of python/Day 8/Life in weeks.md",
-    "CTFS/Setting up VPN for CTFS with TryHackMe.md",
-    "CTFS/Root Me _ TryHackMe.md",
-    "Courses/100 Days of python/Day 7/Hangman_wordlists.py.md",
     "CTFS/Hack the box/Principal.md_Attachments/Principal-20260331161715082.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200329.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200316.png",
