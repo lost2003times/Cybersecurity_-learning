@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/100 Days of python/Day 20 Snake_game part 1/snake.py.md",
+                "file": "Courses/100 Days of python/Day 21 Snake_game part 2/snake.py.md",
                 "mode": "source",
                 "source": false
               },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/100 Days of python/Day 20 Snake_game part 1/snake.py.md",
+                "file": "Courses/100 Days of python/Day 21 Snake_game part 2/snake.py.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,8 +176,13 @@
   },
   "active": "5dd103dbacbcec64",
   "lastOpenFiles": [
-    "Courses/100 Days of python/Day 20 Snake_game part 1/main.py.md",
+    "Courses/100 Days of python/Day 21 Snake_game part 2/score.py.md",
+    "Courses/100 Days of python/Day 21 Snake_game part 2/snake.py.md",
+    "Courses/100 Days of python/Day 21 Snake_game part 2/food.py.md",
+    "Courses/100 Days of python/Day 21 Snake_game part 2/main.py.md",
     "Courses/100 Days of python/Day 20 Snake_game part 1/snake.py.md",
+    "Courses/100 Days of python/Day 21 Snake_game part 2",
+    "Courses/100 Days of python/Day 20 Snake_game part 1/main.py.md",
     "Courses/100 Days of python/Day 18/hirstbkc.py.md",
     "Courses/100 Days of python/Day 20 Snake_game part 1",
     "Courses/100 Days of python/Day 18/challenge.py.md",
@@ -206,13 +211,8 @@
     "Courses/100 Days of python/Day 15",
     "Courses/100 Days of python/Day 14/Higher Lower.md",
     "Courses/100 Days of python/Day 13/Debugging.md",
-    "Courses/100 Days of python/Day 14",
     "Courses/100 Days of python/Day 12/Number Guessing Game.md",
     "Courses/100 Days of python/Day 12/Prime number.md",
-    "Courses/100 Days of python/Day 11/Black Jack.md",
-    "Courses/100 Days of python/Day 9/Blind Auction.md",
-    "Courses/100 Days of python/Day 7/Hangman.py.md",
-    "Courses/100 Days of python/Day 8/Ceaser cipher.md",
     "CTFS/Hack the box/Principal.md_Attachments/Principal-20260331161715082.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200329.png",
     "CTFS/Hack the box/Facts.md_Attachments/Screenshot 2026-03-23 200316.png",
